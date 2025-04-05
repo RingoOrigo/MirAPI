@@ -1,0 +1,32 @@
+{
+  "name": "xenobladexde-api",
+  "version": "0.0.01",
+  "description": "A simple API for Xenoblade Chronicles X: Definitive Edition. Designed to be a simple and easy way to obtain information about certain aspects of the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RingoOrigo/XenobladeXDE-API.git"
+  },
+  "keywords": [
+    "Xenoblade",
+    "Xenoblade Chronicles",
+    "Xenoblade Chronicles X",
+    "Xenoblade Chronicles X: Definitive Edition",
+    "API",
+    "Xenoblade API",
+    "XenobladeXDE API"
+  ],
+  "author": "Ringo Origo",
+  "license": "AGPL-3.0-or-later",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RingoOrigo/XenobladeXDE-API/issues"
+  },
+  "homepage": "https://github.com/RingoOrigo/XenobladeXDE-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

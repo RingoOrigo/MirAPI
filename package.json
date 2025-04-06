@@ -1,5 +1,5 @@
 {
-  "name": "xenobladexde-api",
+  "name": "mirapi",
   "version": "0.0.01",
   "description": "A simple API for Xenoblade Chronicles X: Definitive Edition. Designed to be a simple and easy way to obtain information about certain aspects of the game.",
   "main": "index.js",

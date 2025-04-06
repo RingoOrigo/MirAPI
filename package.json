@@ -4,7 +4,7 @@
   "description": "A simple API for Xenoblade Chronicles X: Definitive Edition. Designed to be a simple and easy way to obtain information about certain aspects of the game.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devTest": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,10 @@
   },
   "homepage": "https://github.com/RingoOrigo/XenobladeXDE-API#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "json-concat": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }

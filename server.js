@@ -23,38 +23,28 @@ app.get('/', (request, result) => {
     result.send('Hello, world!');
 });
 
-app.get('/api/sites', (request, result) => {
-    fs.readdir('api/sites', (error, files) => {
-        if (error) {
-            result.status(500).send('Error reading directory of sites.');
-            return;
+app.get('/api/sites', async (request, result) => {
+    const directory = 'api/sites';
+
+    try {
+        // Read the directory and get all files.
+        // Specifically fs.promises.readdir() gets them in order of filename.
+        const files = await fs.promises.readdir(directory);
+        const sites = [];
+
+        // For each file, read it and parse the JSON data.
+        // Then push the parsed data into the sites array.
+        for (const file of files.sort()) {
+            const data = await fs.promises.readFile(`${directory}/${file}`, 'utf8');
+            sites.push(JSON.parse(data));
         }
 
-        const probes = [];
-        let filesProcessed = 0;
-
-        files.forEach((file) => {
-            const filePath = `api/sites/${file}`;
-            fs.readFile(filePath, 'utf8', (err, data) => {
-                filesProcessed++;
-                if (!err) {
-                    try {
-                        probes.push(JSON.parse(data));
-                    } catch (parseError) {
-                        console.error(`Error parsing JSON from file ${file}:`, parseError);
-                    }
-                }
-
-                if (filesProcessed === files.length) {
-                    result.status(200).json(probes);
-                }
-            });
-        });
-
-        if (files.length === 0) {
-            result.status(200).json(probes);
-        }
-    });
+        // Return the sites array as JSON. 
+        result.status(200).json(sites);
+    } catch (error) {
+        // Return error code 500 if an error was encountered.
+        result.status(500).json({error: 'Error reading all FN sites.'});
+    }
 });
 
 app.get('/api/sites/:id', (request, result) => {
@@ -63,7 +53,7 @@ app.get('/api/sites/:id', (request, result) => {
     
     fs.readFile(file, 'utf8', (error, data) => {
         if (error) {
-            result.status(404).send(`FN Site ${siteID} not found.`);
+            result.status(404).json({error: `FN Site ${siteID} not found.`});
         } else {
             result.status(200).send(JSON.parse(data));
         }

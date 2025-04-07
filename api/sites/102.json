@@ -1,0 +1,15 @@
+{
+    "id": "102",
+    "name": "FN Site 102",
+    "continent": "Primordia",
+    "location": "Starfall Basin",
+    "properties": {
+        "Production": "C",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false,
+}

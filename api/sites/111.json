@@ -1,0 +1,17 @@
+{
+    "id": "111",
+    "name": "FN Site 111",
+    "continent": "Primordia",
+    "location": "Northpointe Beach",
+    "properties": {
+        "Production": "C",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Foucaultium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

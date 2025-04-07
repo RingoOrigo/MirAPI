@@ -1,0 +1,17 @@
+{
+    "id": "101",
+    "name": "FN Site 101",
+    "continent": "Primordia",
+    "location": "Cliffside (Northwest Primordia)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [
+        "Stonelattice Cavern"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

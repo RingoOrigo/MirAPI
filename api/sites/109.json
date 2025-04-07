@@ -1,0 +1,19 @@
+{
+    "id": "109",
+    "name": "FN Site 109",
+    "continent": "Primordia",
+    "location": "Arendt Bridge (Elevated Island)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Foucaultium",
+        "Dawnstone",
+        "Lionbone Bort"
+    ],
+    "skell-locked": true,
+    "flight-locked": false
+}

@@ -1,0 +1,19 @@
+{
+    "id": "108",
+    "name": "FN Site 108",
+    "continent": "Primordia",
+    "location": "Talon Rock Second Terrane (North)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "Arc Sand Ore",
+        "Foucaultium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

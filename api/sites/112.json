@@ -1,0 +1,15 @@
+{
+    "id": "112",
+    "name": "FN Site 112",
+    "continent": "Primordia",
+    "location": "Sayram Northeast Plain",
+    "properties": {
+        "Production": "A",
+        "Revenue": "F",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

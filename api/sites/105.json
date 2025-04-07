@@ -1,0 +1,15 @@
+{
+    "id": "105",
+    "name": "FN Site 105",
+    "continent": "Primordia",
+    "location": "Unicorn Rock (North)",
+    "properties": {
+        "Production": "A",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

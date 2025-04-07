@@ -1,0 +1,15 @@
+{
+    "id": "113",
+    "name": "FN Site 113",
+    "continent": "Primordia",
+    "location": "Primordia Waters",
+    "properties": {
+        "Production": "C",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

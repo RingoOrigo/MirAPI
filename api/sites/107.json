@@ -1,0 +1,15 @@
+{
+    "id": "107",
+    "name": "FN Site 107",
+    "continent": "Primordia",
+    "location": "Beach (Near NLA)",
+    "properties": {
+        "Production": "A",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

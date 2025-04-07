@@ -1,0 +1,22 @@
+{
+    "id": "110",
+    "name": "FN Site 110",
+    "continent": "Primordia",
+    "location": "Talon Rock Summit",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Talon Rock Prominence"
+    ],
+    "precious-resources": [
+        "Aurorite",
+        "Arc Sand Ore",
+        "White Cometite",
+        "Dawnstone"
+    ],
+    "skell-locked": true,
+    "flight-locked": true
+}

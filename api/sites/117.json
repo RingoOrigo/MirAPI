@@ -1,0 +1,17 @@
+{
+    "id": "117",
+    "name": "FN Site 117",
+    "continent": "Primordia",
+    "location": "West Janpath Plain",
+    "properties": {
+        "Production": "A",
+        "Revenue": "D",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [
+        "Rock Cavern"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

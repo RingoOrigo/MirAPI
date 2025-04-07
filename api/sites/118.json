@@ -1,0 +1,19 @@
+{
+    "id": "118",
+    "name": "FN Site 118",
+    "continent": "Primordia",
+    "location": "North Janpath Plain (Cave)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "White Cometite",
+        "Dawnstone"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

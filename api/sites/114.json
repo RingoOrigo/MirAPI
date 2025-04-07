@@ -1,0 +1,15 @@
+{
+    "id": "114",
+    "name": "FN Site 114",
+    "continent": "Primordia",
+    "location": "Sickle Rock Rise (East)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

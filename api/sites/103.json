@@ -1,0 +1,17 @@
+{
+    "id": "103",
+    "name": "FN Site 103",
+    "continent": "Primordia",
+    "location": "Green Threshold",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [
+        "Wonderment Bluff"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

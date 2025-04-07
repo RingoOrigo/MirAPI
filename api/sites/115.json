@@ -1,0 +1,19 @@
+{
+    "id": "115",
+    "name": "FN Site 115",
+    "continent": "Primordia",
+    "location": "Northpointe Beach (Northpointe Cove)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Arc Sand Ore",
+        "White Cometite",
+        "Lionbone Bort"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

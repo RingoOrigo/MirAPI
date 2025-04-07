@@ -1,0 +1,15 @@
+{
+    "id": "116",
+    "name": "FN Site 116",
+    "continent": "Primordia",
+    "location": "East Gate Plain",
+    "properties": {
+        "Production": "A",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

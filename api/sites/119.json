@@ -1,0 +1,15 @@
+{
+    "id": "119",
+    "name": "FN Site 119",
+    "continent": "Primordia",
+    "location": "Seaswept Base",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

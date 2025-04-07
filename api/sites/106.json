@@ -1,0 +1,19 @@
+{
+    "id": "106",
+    "name": "FN Site 106",
+    "continent": "Primordia",
+    "location": "Bianho Lake (North)",
+    "properties": {
+        "Production": "B",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Turtle Nest"
+    ],
+    "precious-resources": [
+        "Arc Sand Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

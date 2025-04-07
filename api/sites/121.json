@@ -1,0 +1,15 @@
+{
+    "id": "121",
+    "name": "FN Site 121",
+    "continent": "Primordia",
+    "location": "Oblivia Threshold",
+    "properties": {
+        "Production": "A",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

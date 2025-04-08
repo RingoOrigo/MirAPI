@@ -1,0 +1,10 @@
+{
+    "mission": "Chapter 1",
+    "title": "Chapter 1: New Los Angeles",
+    "prerequisites": [
+        "Prologue Completed",
+        "BLADE Barracks Reached"
+    ],
+    "required-members": [],
+    "restricted-members": []
+}

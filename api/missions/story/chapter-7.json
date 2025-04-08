@@ -1,0 +1,17 @@
+{
+    "mission": "Chapter 7",
+    "title": "Chapter 7: Treachery",
+    "prerequisites": [
+        "Chapter 6",
+        "Close Comrades",
+        "Oblivia Survey Rate 25%"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Gwin",
+        "Irina"
+    ]
+}

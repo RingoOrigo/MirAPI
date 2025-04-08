@@ -1,0 +1,17 @@
+{
+    "mission": "Chapter 11",
+    "title": "Chapter 11: Consequences",
+    "prerequisites": [
+        "Chapter 10",
+        "Nine Lives",
+        "Boot Camp",
+        "Cauldros Survey Rate 10%"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ]
+}

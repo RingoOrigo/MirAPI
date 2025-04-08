@@ -1,0 +1,9 @@
+{
+    "mission": "Chapter 2",
+    "title": "Chapter 2: The New Frontier",
+    "prerequisites": [
+        "Chapter 1"
+    ],
+    "required-members": [],
+    "restricted-members": []
+}

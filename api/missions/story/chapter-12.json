@@ -1,0 +1,15 @@
+{
+    "mission": "Chapter 12",
+    "title": "Chapter 12: Into the Core",
+    "prerequisites": [
+        "Chapter 11",
+        "A Girl's Wings"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ]
+}

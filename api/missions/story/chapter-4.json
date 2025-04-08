@@ -1,0 +1,14 @@
+{
+    "mission": "Chapter 4",
+    "title": "Chapter 4: The Ganglion Menace",
+    "prerequisites": [
+        "Chapter 3",
+        "The Probe-fessional",
+        "Primordia Survey Rate 15%"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": []
+}

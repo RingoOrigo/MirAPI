@@ -1,0 +1,16 @@
+{
+    "mission": "Chapter 8",
+    "title": "Chapter 8: The Gathering Storm",
+    "prerequisites": [
+        "Chapter 7",
+        "The Matchmaker",
+        "Character Level 30",
+        "Mira Survey Rate 10%",
+        "Party consists of 3 members"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": []
+}

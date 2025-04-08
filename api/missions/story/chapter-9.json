@@ -1,0 +1,18 @@
+{
+    "mission": "Chapter 9",
+    "title": "Chapter 9: Warriors of Wroth",
+    "prerequisites": [
+        "Chapter 8",
+        "Spy Games",
+        "Probe installed in Sylvalum"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Doug",
+        "Nagi",
+        "Lao"
+    ]
+}

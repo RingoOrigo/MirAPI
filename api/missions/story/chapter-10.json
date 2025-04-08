@@ -1,0 +1,16 @@
+{
+    "mission": "Chapter 10",
+    "title": "Chapter 10: The Zu Pharg Menace",
+    "prerequisites": [
+        "Chapter 9",
+        "Manhunt",
+        "Sylvalum Survey Rate 15%"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ]
+}

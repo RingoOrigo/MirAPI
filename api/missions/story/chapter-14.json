@@ -1,0 +1,10 @@
+{
+    "mission": "Chapter 13 (Act 2)",
+    "title": "Chapter 13 (Act 2): The Second Project Exodus",
+    "prerequisites": [
+        "Chapter 13 (Act 1)",
+        "A Challenger Approaches"
+    ],
+    "required-members": [],
+    "restricted-members": []
+}

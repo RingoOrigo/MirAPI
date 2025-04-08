@@ -1,0 +1,12 @@
+{
+    "mission": "Chapter 3",
+    "title": "Chapter 3: Builders of a Legacy",
+    "prerequisites": [
+        "Chapter 2"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": []
+}

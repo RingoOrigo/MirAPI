@@ -1,0 +1,15 @@
+{
+    "mission": "Chapter 6",
+    "title": "Chapter 6: Dark Matters",
+    "prerequisites": [
+        "Chapter 5",
+        "A Friend in Need",
+        "Noctilum Survey Rate 20%",
+        "Party consists of 3 members"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": []
+}

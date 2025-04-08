@@ -13,9 +13,13 @@ const app = express();
 
 async function concatAllJSONFiles (directory) {
     try {
-        const entries = await fs.promises.readdir(directory, { withFileTypes: true });
+        let entries = await fs.promises.readdir(directory, { withFileTypes: true });
         const files = [];
 
+        // Sort the list of entries by name. This will ensure they are returned in a consistent alphabetical order.
+        entries = entries.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
+
+        // Loop through each entry in the directory
         for (const entry of entries) {
 
             const fullPath = `${directory}/${entry.name}`;
@@ -37,6 +41,7 @@ async function concatAllJSONFiles (directory) {
         throw e;
     }
 }
+
 // Use the host-provided port, default to 3000.
 const port = process.eventNames.PORT || 3000;
 // And log current port to the console.
@@ -156,6 +161,4 @@ app.get('/api/missions', async (request, result) => {
             result.status(500).json({error: 'Error reading mission data.'});
         }
     }
-
-    result.status(500).json({error: 'No missions found.', code: 404});
 });

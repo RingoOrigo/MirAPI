@@ -73,10 +73,10 @@ app.get('/api/sites', async (request, result) => {
             sites = await concatAllJSONFiles(directory);
 
             // Return the sites array as JSON. 
-            result.status(200).json(sites);
+            return result.status(200).json(sites);
         } catch (e) {
             // Return error code 500 if an error was encountered.
-            result.status(500).json({error: 'Error reading all FN sites.'});
+            return result.status(500).json({error: 'Error reading all FN sites.'});
         }
     } else {
         const file = `${directory}/${id}.json`;
@@ -85,9 +85,9 @@ app.get('/api/sites', async (request, result) => {
         // If the file does not exist, return a 404 error.
         fs.readFile(file, 'utf8', (error, data) => {
             if (error) {
-                result.status(404).json({error: `FN Site ${id} not found.`, code: 404});
+                return result.status(404).json({error: `FN Site ${id} not found.`, code: 404});
             } else {
-                result.status(200).send(JSON.parse(data));
+                return result.status(200).send(JSON.parse(data));
             }
         });
     }
@@ -110,9 +110,9 @@ app.get('/api/missions', async (request, result) => {
         // Neither mission type nor name have been specified, return all missions.
         try {
             const missions = await concatAllJSONFiles(directory);
-            result.status(200).json(missions);
+            return result.status(200).json(missions);
         } catch (e) {
-            result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.'});
         }
 
     } else if (type && !name) {
@@ -120,9 +120,9 @@ app.get('/api/missions', async (request, result) => {
         try {
             const missionDir = `${directory}/${type}`;
             const missions = await concatAllJSONFiles(missionDir);
-            result.status(200).json(missions);
+            return result.status(200).json(missions);
         } catch (e) {
-            result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.'});
         }
     } else if (!type && name) {
         try {
@@ -138,13 +138,13 @@ app.get('/api/missions', async (request, result) => {
                     if (file.name === `${name}.json`) {
                         // Return the JSON data of the specified file.
                         const data = await fs.promises.readFile(`${directory}/${subdir.name}/${file.name}`, 'utf8');
-                        result.status(200).json(JSON.parse(data));
+                        return result.status(200).json(JSON.parse(data));
                     }
                 }
-                result.status(404).json({error: `Mission '${name}' not found.`, code: 404})
+                return result.status(404).json({error: `Mission '${name}' not found.`, code: 404});
             }
         } catch(e) {
-            result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.'});
         }
     } else {
         try {
@@ -154,12 +154,12 @@ app.get('/api/missions', async (request, result) => {
                 if (file.name === `${name}.json`) {
                     // Return the JSON data of the specified file.
                     const data = await fs.promises.readFile(`${directory}/${type}/${file.name}`, 'utf8');
-                    result.status(200).json(JSON.parse(data));
+                    return result.status(200).json(JSON.parse(data));
                 }
             }
-            result.status(404).json({error: `Could not find ${type} mission '${name}'`, code: 404});
+            return result.status(404).json({error: `Could not find ${type} mission '${name}'`, code: 404});
         } catch (e) {
-            result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.'});
         }
     }
 });

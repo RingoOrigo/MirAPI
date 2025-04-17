@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 12",
     "title": "Chapter 12: Into the Core",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 11",
         "A Girl's Wings"

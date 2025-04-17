@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 9",
     "title": "Chapter 9: Warriors of Wroth",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 8",
         "Spy Games",

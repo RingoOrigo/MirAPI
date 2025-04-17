@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 7",
     "title": "Chapter 7: Treachery",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 6",
         "Close Comrades",

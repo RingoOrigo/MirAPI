@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 5",
     "title": "Chapter 5: Ma-non Maneuvers",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 4",
         "Renewed Will",

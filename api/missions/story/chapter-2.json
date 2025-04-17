@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 2",
     "title": "Chapter 2: The New Frontier",
+    "client":"Nagi",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 1"
     ],

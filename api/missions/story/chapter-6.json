@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 6",
     "title": "Chapter 6: Dark Matters",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 5",
         "A Friend in Need",

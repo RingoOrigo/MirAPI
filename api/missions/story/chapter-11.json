@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 11",
     "title": "Chapter 11: Consequences",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 10",
         "Nine Lives",

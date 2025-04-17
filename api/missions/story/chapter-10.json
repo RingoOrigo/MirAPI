@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 10",
     "title": "Chapter 10: The Zu Pharg Menace",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 9",
         "Manhunt",

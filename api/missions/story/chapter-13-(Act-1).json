@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 13 (Act 1)",
     "title": "Chapter 13 (Act 1): Cause and Effect",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 12"
     ],

@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 4",
     "title": "Chapter 4: The Ganglion Menace",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 3",
         "The Probe-fessional",

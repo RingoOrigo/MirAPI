@@ -1,6 +1,8 @@
 {
     "mission": "Chapter 13 (Act 2)",
     "title": "Chapter 13 (Act 2): The Second Project Exodus",
+    "client":"Vandham",
+    "location":"BLADE Barracks",
     "prerequisites": [
         "Chapter 13 (Act 1)",
         "A Challenger Approaches"

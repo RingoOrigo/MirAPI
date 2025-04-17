@@ -8,5 +8,9 @@
         "BLADE Barracks Reached"
     ],
     "required-members": [],
-    "restricted-members": []
+    "restricted-members": [],
+    "rewards": [
+        "5,000 Credits",
+        "20 Experience"
+    ]
 }

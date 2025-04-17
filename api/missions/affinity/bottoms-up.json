@@ -1,0 +1,21 @@
+{
+    "mission": "bottoms-up",
+    "title": "Bottoms Up",
+    "client":"Frye",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 4",
+        "Nighttime",
+        "Level 19"
+    ],
+    "required-members": [],
+    "restricted-members": [
+        "Phog"
+    ],
+    "rewards": [
+        "11,000 Credits",
+        "190 Experience",
+        "200 Affinity",
+        "Frye (Playable)"
+    ]
+}

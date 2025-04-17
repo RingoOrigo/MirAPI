@@ -1,0 +1,26 @@
+{
+    "mission": "boze's-ignorance",
+    "title": "Bozé's Ignorance",
+    "client":"Bozé",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 9",
+        "Prone Sweet Prone",
+        "Bozé Affinity 4♥",
+        "Level 37"
+    ],
+    "required-members": [
+        "Bozé"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "24,000 Credits",
+        "370 Experience",
+        "200 Affinity",
+        "FILE-SK-DOZER",
+        "Advances Thruster",
+        "New Cylinder",
+        "Standard Sensor Part",
+        "Slayonet (Art)"
+    ]
+}

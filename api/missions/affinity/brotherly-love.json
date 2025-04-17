@@ -1,0 +1,26 @@
+{
+    "mission": "brotherly-love",
+    "title": "Brotherly Love",
+    "client":"Frye",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 11",
+        "Blitzkrieg",
+        "Phog Affinity 4♥",
+        "Frye Affinity 4♥",
+        "Level 46"
+    ],
+    "required-members": [
+        "Phog",
+        "Frye"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "41,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "Innovation Inspiration (Holofigure)",
+        "FILE-USP1380SA",
+        "Titan Recharge (Art)"
+    ]
+}

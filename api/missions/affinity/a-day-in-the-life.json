@@ -1,0 +1,23 @@
+{
+    "mission": "a-day-in-the-life",
+    "title": "A Day in the Lifeches",
+    "client":"Vandham",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 4",
+        "Level 16"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ],
+    "rewards": [
+        "10,000 Credits",
+        "180 Experience",
+        "200 Affinity",
+        "Limited Tank Top (Black Camo)"
+    ]
+}

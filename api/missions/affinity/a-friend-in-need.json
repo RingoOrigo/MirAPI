@@ -1,0 +1,23 @@
+{
+    "mission": "a-friend-in-need",
+    "title": "A Friend in Need",
+    "client":"Vandham",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 5",
+        "Level 19"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Lao"
+    ],
+    "rewards": [
+        "12,000 Credits",
+        "200 Experience",
+        "200 Affinity",
+        "Balance Breaker (Art)"
+    ]
+}

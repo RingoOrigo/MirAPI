@@ -1,0 +1,18 @@
+{
+    "mission": "a-new-rival",
+    "title": "A New Rival?",
+    "client":"H.B",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 3",
+        "Level 12"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "9,000 Credits",
+        "160 Experience",
+        "200 Affinity",
+        "H.B. (Playable)"
+    ]
+}

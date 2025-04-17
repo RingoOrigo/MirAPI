@@ -1,0 +1,26 @@
+{
+    "mission": "blitzkrieg",
+    "title": "Blitzkrieg",
+    "client":"Walter",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 8",
+        "A Great Divide",
+        "Frye Affinity 3♥",
+        "Phog Affinity 3♥",
+        "Level 33"
+    ],
+    "required-members": [],
+    "restricted-members": [
+        "Frye",
+        "Phog"
+    ],
+    "rewards": [
+        "24,000 Credits",
+        "310 Experience",
+        "200 Affinity",
+        "Bullet Twister (Art)",
+        "Crisis Zone (Art)",
+        "Phog and Frye playable together"
+    ]
+}

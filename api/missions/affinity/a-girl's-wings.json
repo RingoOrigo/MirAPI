@@ -1,0 +1,20 @@
+{
+    "mission": "a-girl's-wings",
+    "title": "A Girl's Wings",
+    "client":"Vandham",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 9",
+        "Skell License",
+        "Party consists only of player character",
+        "Level 33"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "24,000 Credits",
+        "330 Experience",
+        "200 Affinity",
+        "Flight Module (All Skells)"
+    ]
+}

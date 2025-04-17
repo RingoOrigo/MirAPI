@@ -1,0 +1,21 @@
+{
+    "mission": "arms-and-the-man",
+    "title": "Arms and the Man",
+    "client":"Yelv",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 6",
+        "Yelv Affinity 2♥",
+        "Level 28"
+    ],
+    "required-members": [
+        "Yelv"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "15,000 Credits",
+        "250 Experience",
+        "200 Affinity",
+        "Essence Exchange (Art)"
+    ]
+}

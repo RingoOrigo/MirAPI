@@ -1,0 +1,19 @@
+{
+    "mission": "boze's-way",
+    "title": "Bozé's Way",
+    "client":"Bozé",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 7",
+        "Bozé Affinity 2♥",
+        "Level 30"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "17,000 Credits",
+        "280 Experience",
+        "200 Affinity",
+        "Vortex (Art)"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "mission": "bffs",
+    "title": "BFFs",
+    "client":"Vandham",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 5",
+        "Level 22"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "15,000 Credits",
+        "240 Experience",
+        "200 Affinity",
+        "Nopon Bazaar (Commercial District)",
+        "Nopon Commerce Guild (AM Terminal)"
+    ]
+}

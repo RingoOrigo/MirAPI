@@ -1,0 +1,19 @@
+{
+    "mission": "a-false-hope",
+    "title": "A False Hope",
+    "client":"Hope",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 5",
+        "Hope Affinity 2♥",
+        "Level 24"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "13,000 Credits",
+        "230 Experience",
+        "200 Affinity",
+        "Secondary Speed (Art)"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "mission": "boot-camp",
+    "title": "Boot Camp",
+    "client":"Gwin",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 10",
+        "Outfitters Test Hangar not in use",
+        "Gwin Affinity 1♥",
+        "Level 41"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Irina",
+        "Gwin"
+    ],
+    "rewards": [
+        "30,000 Credits",
+        "410 Experience",
+        "200 Affinity",
+        "Grenade Blitz (Art)"
+    ]
+}

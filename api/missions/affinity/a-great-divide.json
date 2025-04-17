@@ -1,0 +1,24 @@
+{
+    "mission": "a-great-divide",
+    "title": "A Great Divide",
+    "client":"Phog",
+    "location": "Residential District",
+    "prerequisites": [
+        "Chapter 7",
+        "Bottoms Up",
+        "Phog Affinity 2♥",
+        "Level 30"
+    ],
+    "required-members": [
+        "Phog"
+    ],
+    "restricted-members": [
+        "Frye"
+    ],
+    "rewards": [
+        "17,000 Credits",
+        "280 Experience",
+        "200 Affinity",
+        "Sky High (Art)"
+    ]
+}

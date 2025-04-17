@@ -85,7 +85,7 @@ app.get('/api/sites', async (request, result) => {
         // If the file does not exist, return a 404 error.
         fs.readFile(file, 'utf8', (error, data) => {
             if (error) {
-                result.status(404).json({error: `FN Site ${siteID} not found.`, code: 404});
+                result.status(404).json({error: `FN Site ${id} not found.`, code: 404});
             } else {
                 result.status(200).send(JSON.parse(data));
             }
@@ -141,12 +141,12 @@ app.get('/api/missions', async (request, result) => {
                         result.status(200).json(JSON.parse(data));
                     }
                 }
+                result.status(404).json({error: `Mission '${name}' not found.`, code: 404})
             }
         } catch(e) {
             result.status(500).json({error: 'Error reading mission data.'});
         }
     } else {
-        // TODO: Implement returning specific mission by both type and name
         try {
             const files = await fs.promises.readdir(`${directory}/${type}`, { withFileTypes: true });
 
@@ -157,6 +157,7 @@ app.get('/api/missions', async (request, result) => {
                     result.status(200).json(JSON.parse(data));
                 }
             }
+            result.status(404).json({error: `Could not find ${type} mission '${name}'`, code: 404});
         } catch (e) {
             result.status(500).json({error: 'Error reading mission data.'});
         }

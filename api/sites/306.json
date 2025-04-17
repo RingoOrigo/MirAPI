@@ -1,0 +1,17 @@
+{
+    "id": "306",
+    "name": "FN Site 306",
+    "continent": "Oblivia",
+    "location": "Aaroy Plain",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Cryptic Sign"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,19 @@
+{
+    "id": "301",
+    "name": "FN Site 301",
+    "continent": "Oblivia",
+    "location": "Oblivia Ingress",
+    "properties": {
+        "Production": "B",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Infernium",
+        "Arc Sand Ore",
+        "Lionbone Bort"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

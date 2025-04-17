@@ -1,0 +1,15 @@
+{
+    "id": "224",
+    "name": "FN Site 224",
+    "continent": "Noctilum",
+    "location": "Rockmole's Burrow",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

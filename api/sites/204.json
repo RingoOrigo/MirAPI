@@ -1,0 +1,15 @@
+{
+    "id": "204",
+    "name": "FN Site 204",
+    "continent": "Noctilum",
+    "location": "Breakwater Narrow",
+    "properties": {
+        "Production": "A",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

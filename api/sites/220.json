@@ -1,0 +1,20 @@
+{
+    "id": "220",
+    "name": "FN Site 220",
+    "continent": "Noctilum",
+    "location": "Elephant's Trunk",
+    "properties": {
+        "Production": "C",
+        "Revenue": "C",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [
+        "Orochi's Belly"
+    ],
+    "precious-resources": [
+        "Infernium",
+        "Everfreeze Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,18 @@
+{
+    "id": "221",
+    "name": "FN Site 221",
+    "continent": "Noctilum",
+    "location": "Garden Spring",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Yagami's Vista",
+        "Ensanguined Font"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

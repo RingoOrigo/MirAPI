@@ -1,0 +1,22 @@
+{
+    "id": "318",
+    "name": "FN Site 318",
+    "continent": "Oblivia",
+    "location": "East Ibra Ravine",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Atop the Giant Ring",
+        "Primeval Meadow"
+    ],
+    "precious-resources": [
+        "Boiled-Egg Ore",
+        "White Cometite",
+        "Lionbone Bort"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

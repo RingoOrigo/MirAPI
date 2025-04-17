@@ -1,0 +1,17 @@
+{
+    "id": "222",
+    "name": "FN Site 222",
+    "continent": "Noctilum",
+    "location": "Jasper Incline",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Whale's Weeper"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

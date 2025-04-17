@@ -1,0 +1,20 @@
+{
+    "id": "215",
+    "name": "FN Site 215",
+    "continent": "Noctilum",
+    "location": "Fukai Pass (Path to Twin Hammers)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "Enduron Lead",
+        "Everfreeze Ore",
+        "Foucaultium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

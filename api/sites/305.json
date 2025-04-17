@@ -1,0 +1,19 @@
+{
+    "id": "305",
+    "name": "FN Site 305",
+    "continent": "Oblivia",
+    "location": "Big Arch",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "Arc Sand Ore",
+        "Enduron Lead"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

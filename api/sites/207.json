@@ -1,0 +1,20 @@
+{
+    "id": "207",
+    "name": "FN Site 207",
+    "continent": "Noctilum",
+    "location": "Divine Roost",
+    "properties": {
+        "Production": "C",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Infernium",
+        "White Cometite",
+        "Cimmerian Cinnabar",
+        "Foucaultium"
+    ],
+    "skell-locked": true,
+    "flight-locked": true
+}

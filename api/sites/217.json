@@ -1,0 +1,19 @@
+{
+    "id": "217",
+    "name": "FN Site 217",
+    "continent": "Noctilum",
+    "location": "Rust Lake",
+    "properties": {
+        "Production": "C",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "Infernium",
+        "Cimmerian Cinnabar"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

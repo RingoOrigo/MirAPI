@@ -1,0 +1,19 @@
+{
+    "id": "218",
+    "name": "FN Site 218",
+    "continent": "Noctilum",
+    "location": "Qing Long Glade (East)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Aurorite",
+        "Enduron Lead",
+        "White Cometite"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,20 @@
+{
+    "id": "307",
+    "name": "FN Site 307",
+    "continent": "Oblivia",
+    "location": "Scabland Fortress",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Infernium",
+        "Arc Sand Ore",
+        "Enduron Lead",
+        "White Cometite"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

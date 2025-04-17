@@ -1,0 +1,18 @@
+{
+    "id": "313",
+    "name": "FN Site 313",
+    "continent": "Oblivia",
+    "location": "Azure Lagoon",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [
+        "Crater Oasis",
+        "Azure Lagoon"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

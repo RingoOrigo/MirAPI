@@ -1,0 +1,18 @@
+{
+    "id": "315",
+    "name": "FN Site 315",
+    "continent": "Oblivia",
+    "location": "Alexander Ridge",
+    "properties": {
+        "Production": "A",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Kintrees",
+        "Mount Edge Peak"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

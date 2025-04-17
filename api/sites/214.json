@@ -1,0 +1,18 @@
+{
+    "id": "214",
+    "name": "FN Site 214",
+    "continent": "Noctilum",
+    "location": "Dead Man's Gulch",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Millstone Ridge",
+        "Skygazer's Atrium"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

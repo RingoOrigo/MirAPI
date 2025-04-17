@@ -1,0 +1,15 @@
+{
+    "id": "210",
+    "name": "FN Site 210",
+    "continent": "Noctilum",
+    "location": "Bloodpond Basin",
+    "properties": {
+        "Production": "B",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

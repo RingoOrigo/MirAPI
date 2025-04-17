@@ -1,0 +1,18 @@
+{
+    "id": "219",
+    "name": "FN Site 219",
+    "continent": "Noctilum",
+    "location": "Goblin's Narrow",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Enduron Lead",
+        "White Cometite"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

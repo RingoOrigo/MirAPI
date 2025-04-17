@@ -1,0 +1,19 @@
+{
+    "id": "312",
+    "name": "FN Site 312",
+    "continent": "Oblivia",
+    "location": "River Isle (Giant Ring)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Infernium",
+        "Boiled-Egg Ore",
+        "Lionbone Bort"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,17 @@
+{
+    "id": "308",
+    "name": "FN Site 308",
+    "continent": "Oblivia",
+    "location": "North Coast",
+    "properties": {
+        "Production": "B",
+        "Revenue": "C",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Ouroboros Crystal"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

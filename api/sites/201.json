@@ -1,0 +1,15 @@
+{
+    "id": "201",
+    "name": "FN Site 201",
+    "continent": "Noctilum",
+    "location": "Divine Roost",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": true,
+    "flight-locked": true
+}

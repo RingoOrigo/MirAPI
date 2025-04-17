@@ -1,0 +1,15 @@
+{
+    "id": "310",
+    "name": "FN Site 310",
+    "continent": "Oblivia",
+    "location": "Lake Basel",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": true,
+    "flight-locked": false
+}

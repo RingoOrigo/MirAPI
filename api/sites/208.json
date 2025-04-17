@@ -1,0 +1,17 @@
+{
+    "id": "208",
+    "name": "FN Site 208",
+    "continent": "Noctilum",
+    "location": "Blackback Bridge",
+    "properties": {
+        "Production": "B",
+        "Revenue": "D",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Foucaltium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

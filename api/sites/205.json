@@ -1,0 +1,15 @@
+{
+    "id": "205",
+    "name": "FN Site 205",
+    "continent": "Noctilum",
+    "location": "Serpentine Pass",
+    "properties": {
+        "Production": "A",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

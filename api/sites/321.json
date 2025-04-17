@@ -1,0 +1,15 @@
+{
+    "id": "321",
+    "name": "FN Site 321",
+    "continent": "Oblivia",
+    "location": "Victory Rock (North)",
+    "properties": {
+        "Production": "A",
+        "Revenue": "D",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

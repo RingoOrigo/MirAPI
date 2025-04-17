@@ -1,0 +1,15 @@
+{
+    "id": "314",
+    "name": "FN Site 314",
+    "continent": "Oblivia",
+    "location": "Eijiri Promontory",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

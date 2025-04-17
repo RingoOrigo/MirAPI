@@ -1,0 +1,15 @@
+{
+    "id": "209",
+    "name": "FN Site 209",
+    "continent": "Noctilum",
+    "location": "Vitriol Cesspool",
+    "properties": {
+        "Production": "C",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

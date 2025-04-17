@@ -1,0 +1,15 @@
+{
+    "id": "304",
+    "name": "FN Site 304",
+    "continent": "Oblivia",
+    "location": "Yawning Giant",
+    "properties": {
+        "Production": "B",
+        "Revenue": "A",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": true,
+    "flight-locked": false
+}

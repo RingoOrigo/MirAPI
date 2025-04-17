@@ -1,0 +1,17 @@
+{
+    "id": "223",
+    "name": "FN Site 223",
+    "continent": "Noctilum",
+    "location": "Idyll Beach",
+    "properties": {
+        "Production": "C",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Idyll Beach"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

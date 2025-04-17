@@ -1,0 +1,15 @@
+{
+    "id": "311",
+    "name": "FN Site 311",
+    "continent": "Oblivia",
+    "location": "King's Falls",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

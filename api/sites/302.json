@@ -1,0 +1,15 @@
+{
+    "id": "302",
+    "name": "FN Site 302",
+    "continent": "Oblivia",
+    "location": "Oblivia Ingress (Northeast)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "E",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

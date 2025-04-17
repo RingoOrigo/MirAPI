@@ -1,0 +1,15 @@
+{
+    "id": "211",
+    "name": "FN Site 211",
+    "continent": "Noctilum",
+    "location": "Suncatch Ravine",
+    "properties": {
+        "Production": "A",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

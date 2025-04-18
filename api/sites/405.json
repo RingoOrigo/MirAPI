@@ -1,0 +1,17 @@
+{
+    "id": "405",
+    "name": "FN Site 405",
+    "continent": "Sylvalum",
+    "location": "Needle Rock Sandsea",
+    "properties": {
+        "Production": "A",
+        "Revenue": "E",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Arc Sand Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

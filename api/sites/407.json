@@ -1,0 +1,15 @@
+{
+    "id": "407",
+    "name": "FN Site 407",
+    "continent": "Sylvalum",
+    "location": "West Cinderdunes",
+    "properties": {
+        "Production": "A",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

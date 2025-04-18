@@ -1,0 +1,19 @@
+{
+    "id": "503",
+    "name": "FN Site 503",
+    "continent": "Cauldros",
+    "location": "Emerian Battlegrounds",
+    "properties": {
+        "Production": "C",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "White Phosphor Lake"
+    ],
+    "precious-resources": [
+        "Enduron Lead"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,15 @@
+{
+    "id": "411",
+    "name": "FN Site 411",
+    "continent": "Sylvalum",
+    "location": "Lake Ciel (South)",
+    "properties": {
+        "Production": "A",
+        "Revenue": "A",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

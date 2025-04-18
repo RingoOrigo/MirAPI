@@ -1,0 +1,17 @@
+{
+    "id": "417",
+    "name": "FN Site 417",
+    "continent": "Sylvalum",
+    "location": "East Ciel Sandsea",
+    "properties": {
+        "Production": "B",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Boiled-Egg Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

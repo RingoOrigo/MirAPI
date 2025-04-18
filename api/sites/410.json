@@ -1,0 +1,17 @@
+{
+    "id": "410",
+    "name": "FN Site 410",
+    "continent": "Sylvalum",
+    "location": "Banshee Cave",
+    "properties": {
+        "Production": "B",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Arc Rock"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

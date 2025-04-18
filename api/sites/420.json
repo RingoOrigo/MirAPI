@@ -1,0 +1,17 @@
+{
+    "id": "420",
+    "name": "FN Site 420",
+    "continent": "Sylvalum",
+    "location": "Delusians South Summit (East)",
+    "properties": {
+        "Production": "B",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Everfreeze Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

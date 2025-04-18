@@ -1,0 +1,19 @@
+{
+    "id": "507",
+    "name": "FN Site 507",
+    "continent": "Cauldros",
+    "location": "Slavebird Isle",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Bandits' Refuge"
+    ],
+    "precious-resources": [
+        "Bonjelium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

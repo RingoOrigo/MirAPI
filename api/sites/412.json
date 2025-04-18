@@ -1,0 +1,15 @@
+{
+    "id": "412",
+    "name": "FN Site 412",
+    "continent": "Sylvalum",
+    "location": "North Ciel Sandsea",
+    "properties": {
+        "Production": "A",
+        "Revenue": "B",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

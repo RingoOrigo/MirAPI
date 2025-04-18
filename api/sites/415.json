@@ -1,0 +1,15 @@
+{
+    "id": "415",
+    "name": "FN Site 415",
+    "continent": "Sylvalum",
+    "location": "North Silent Sandsea",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

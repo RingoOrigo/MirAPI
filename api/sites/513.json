@@ -1,0 +1,18 @@
+{
+    "id": "513",
+    "name": "FN Site 513",
+    "continent": "Cauldros",
+    "location": "M'gando Volcanic Crater",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "M'gando Mineral Spring",
+        "M'gando Volcanic Crater"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

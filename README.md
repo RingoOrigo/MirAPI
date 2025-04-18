@@ -11,7 +11,7 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 |🟢| Complete|
 |🟡| Implemented, but incomplete return data |
 |🔴| Unimplemented, but planned. |
-### 🟡 Get Frontier Nav sites
+### 🟢 Get Frontier Nav sites
 
 ```http
   GET /api/sites?id={ID}

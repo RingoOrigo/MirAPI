@@ -1,0 +1,15 @@
+{
+  "id": "416",
+  "name": "FN Site 416",
+  "continent": "Sylvalum",
+  "location": "Delusians North Summit",
+  "properties": {
+      "Production": "C",
+      "Revenue": "B",
+      "Combat Support": "B"
+  },
+  "sightseeing-spots": [],
+  "precious-resources": [],
+  "skell-locked": false,
+  "flight-locked": false
+}

@@ -1,0 +1,15 @@
+{
+    "id": "403",
+    "name": "FN Site 403",
+    "continent": "Sylvalum",
+    "location": "Seabird's Beak",
+    "properties": {
+        "Production": "A",
+        "Revenue": "C",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,15 @@
+{
+    "id": "409",
+    "name": "FN Site 409",
+    "continent": "Sylvalum",
+    "location": "Hilal Stronghold",
+    "properties": {
+        "Production": "B",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

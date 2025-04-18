@@ -1,0 +1,15 @@
+{
+    "id": "509",
+    "name": "FN Site 509",
+    "continent": "Cauldros",
+    "location": "Ganglion Weapons Hangar (North)",
+    "properties": {
+        "Production": "A",
+        "Revenue": "A",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

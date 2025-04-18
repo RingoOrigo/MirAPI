@@ -1,0 +1,17 @@
+{
+    "id": "514",
+    "name": "FN Site 514",
+    "continent": "Cauldros",
+    "location": "Kw'arah Cloister",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Kw'arah Cloister"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

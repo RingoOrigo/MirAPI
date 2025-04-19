@@ -1,0 +1,17 @@
+{
+    "id": "419",
+    "name": "FN Site 419",
+    "continent": "Sylvalum",
+    "location": "Delusians South Summit",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Behemoth's Shadows"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

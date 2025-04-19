@@ -1,0 +1,17 @@
+{
+    "id": "511",
+    "name": "FN Site 511",
+    "continent": "Cauldros",
+    "location": "T'phnom Shelf",
+    "properties": {
+        "Production": "A",
+        "Revenue": "C",
+        "Combat Support": "A"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Bonjelium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

@@ -1,0 +1,17 @@
+{
+    "id": "510",
+    "name": "FN Site 510",
+    "continent": "Cauldros",
+    "location": "Forgotten Mining Frigates",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Bonjelium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

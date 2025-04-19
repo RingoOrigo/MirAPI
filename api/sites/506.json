@@ -1,0 +1,20 @@
+{
+    "id": "506",
+    "name": "FN Site 506",
+    "continent": "Cauldros",
+    "location": "Orrh Sim Castle (Southwest)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Beneath O'rrh Sim Keep"
+    ],
+    "precious-resources": [
+        "Bonjelium",
+        "Arc Sand Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

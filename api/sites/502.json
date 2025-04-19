@@ -1,0 +1,19 @@
+{
+    "id": "502",
+    "name": "FN Site 502",
+    "continent": "Cauldros",
+    "location": "Scholes Battlegrounds",
+    "properties": {
+        "Production": "A",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Infernal Ledges"
+    ],
+    "precious-resources": [
+        "Bonjelium"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

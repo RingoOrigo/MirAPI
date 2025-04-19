@@ -1,0 +1,15 @@
+{
+    "id": "401",
+    "name": "FN Site 401",
+    "continent": "Sylvalum",
+    "location": "Shivering Sands",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

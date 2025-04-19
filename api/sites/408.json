@@ -1,0 +1,21 @@
+{
+    "id": "408",
+    "name": "FN Site 408",
+    "continent": "Sylvalum",
+    "location": "Lake Ciel (North)",
+    "properties": {
+        "Production": "B",
+        "Revenue": "D",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Sandsprint Cavity"
+    ],
+    "precious-resources": [
+        "Aurorite",
+        "Arc Sand Ore",
+        "Everfreeze Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

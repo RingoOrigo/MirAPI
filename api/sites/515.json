@@ -1,0 +1,15 @@
+{
+    "id": "515",
+    "name": "FN Site 515",
+    "continent": "Cauldros",
+    "location": "Mount M'Gando (South)",
+    "properties": {
+        "Production": "C",
+        "Revenue": "B",
+        "Combat Support": "S"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

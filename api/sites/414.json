@@ -1,0 +1,21 @@
+{
+  "id": "414",
+  "name": "FN Site 414",
+  "continent": "Sylvalum",
+  "location": "Noctilucent Sphere (Below)",
+  "properties": {
+      "Production": "C",
+      "Revenue": "B",
+      "Combat Support": "B"
+  },
+  "sightseeing-spots": [
+    "Noctilucent Sphere Interior",
+    "Quay Hollows"
+  ],
+  "precious-resources": [
+    "Parhelion Platinum",
+    "Marine Rutile"
+  ],
+  "skell-locked": false,
+  "flight-locked": false
+}

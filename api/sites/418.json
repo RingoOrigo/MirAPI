@@ -1,0 +1,21 @@
+{
+    "id": "418",
+    "name": "FN Site 418",
+    "continent": "Sylvalum",
+    "location": "North Silent Sandsea",
+    "properties": {
+        "Production": "C",
+        "Revenue": "C",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Parhelion Platinum",
+        "Arc Sand Ore",
+        "Everfreeze Ore",
+        "Boiled-Egg Ore",
+        "Marine Rutile"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

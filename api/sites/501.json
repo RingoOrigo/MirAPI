@@ -1,0 +1,17 @@
+{
+    "id": "501",
+    "name": "FN Site 501",
+    "continent": "Cauldros",
+    "location": "Far Isle of Tzu'o",
+    "properties": {
+        "Production": "B",
+        "Revenue": "F",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [],
+    "precious-resources": [
+        "Arc Sand Ore"
+    ],
+    "skell-locked": false,
+    "flight-locked": false
+}

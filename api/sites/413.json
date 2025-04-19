@@ -1,0 +1,17 @@
+{
+    "id": "413",
+    "name": "FN Site 413",
+    "continent": "Sylvalum",
+    "location": "North Ciel Sandsea",
+    "properties": {
+        "Production": "C",
+        "Revenue": "A",
+        "Combat Support": "B"
+    },
+    "sightseeing-spots": [
+        "Xanadu Overlook"
+    ],
+    "precious-resources": [],
+    "skell-locked": false,
+    "flight-locked": false
+}

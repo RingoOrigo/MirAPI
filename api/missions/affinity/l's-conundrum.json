@@ -1,0 +1,20 @@
+{
+    "mission": "l's-conundrum",
+    "title": "L's Conundrum",
+    "client":"L",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 10",
+        "Booming Business",
+        "L Affinity 2♥",
+        "Level 38"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "15,000 Credits",
+        "250 Experience",
+        "200 Affinity",
+        "Mindstorm (Art)"
+    ]
+}

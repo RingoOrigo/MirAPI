@@ -1,0 +1,24 @@
+{
+    "mission": "the-king-of-fear",
+    "title": "The King of Fear",
+    "client":"Eleanora",
+    "location": "Residential District",
+    "prerequisites": [
+        "Chapter 7",
+        "Noctilum Survey 25%",
+        "BFFs",
+        "Prone Sweet Prone",
+        "H.B. Affinity 2♥",
+        "Level 32"
+    ],
+    "required-members": [
+        "H.B."
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "18,000 Credits",
+        "290 Experience",
+        "200 Affinity",
+        "Atomic Hit (Art)"
+    ]
+}

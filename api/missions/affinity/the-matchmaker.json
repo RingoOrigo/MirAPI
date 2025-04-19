@@ -1,0 +1,24 @@
+{
+    "mission": "the-matchmaker",
+    "title": "The Matchmaker",
+    "client":"Shingo",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Chapter 6",
+        "Lao Affinity 1♥",
+        "Level 24"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Lao"
+    ],
+    "rewards": [
+        "13,000 Credits",
+        "220 Experience",
+        "200 Affinity",
+        "Afterburner (Art)"
+    ]
+}

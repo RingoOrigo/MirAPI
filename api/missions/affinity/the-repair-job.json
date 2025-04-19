@@ -1,0 +1,23 @@
+{
+    "mission": "the-repair-job",
+    "title": "The Repair Job",
+    "client":"Lin",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Lin Affinity 1♥",
+        "Level 13"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "9,000 Credits (Route A)",
+        "160 Experience (Rute A)",
+        "10,000 Credits (Route B)",
+        "170 Experience (Rute B)",
+        "200 Affinity",
+        "Fire Carnival (Art)"
+    ]
+}

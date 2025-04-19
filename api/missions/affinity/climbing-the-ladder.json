@@ -1,0 +1,23 @@
+{
+    "mission": "climbing-the-ladder",
+    "title": "Climbing the Ladder",
+    "client":"H.B.",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 9",
+        "H.B. Affinity 4♥",
+        "Level 37"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "28,000 Credits",
+        "340 Experience",
+        "200 Affinity",
+        "FILE-SK_POLICE",
+        "Hidden Cantor Hoard",
+        "Galaxial Jewel",
+        "Multi-Wire",
+        "Flamehand (Art)"
+    ]
+}

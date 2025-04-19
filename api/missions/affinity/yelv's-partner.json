@@ -1,0 +1,30 @@
+{
+    "mission": "yelv's-partner",
+    "title": "Yelv's Partner",
+    "client":"Yelv",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Chapter 11",
+        "Oblivia Survey 50%",
+        "Obtained Mimeosome Left Leg",
+        "Obtained Mimeosome Right Leg",
+        "Level 50"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ],
+    "rewards": [
+        "41,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "FILE-R1306FC",
+        "Golden Stabilizer",
+        "Rainbow Metal",
+        "Standard Coil",
+        "Master Gunner (Art)"
+    ]
+}

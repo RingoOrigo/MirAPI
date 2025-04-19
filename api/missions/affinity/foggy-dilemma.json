@@ -1,0 +1,20 @@
+{
+    "mission": "foggy-dilemma",
+    "title": "Foggy Dilemma",
+    "client":"Phog",
+    "location": "Residential District",
+    "prerequisites": [
+        "Backup Request (Basic Mission) Accepted",
+        "Level 13"
+    ],
+    "required-members": [],
+    "restricted-members": [
+        "Frye"
+    ],
+    "rewards": [
+        "11,000 Credits",
+        "190 Experience",
+        "200 Affinity",
+        "Phog (Playable)"
+    ]
+}

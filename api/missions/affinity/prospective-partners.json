@@ -1,0 +1,22 @@
+{
+    "mission": "prospective-partners",
+    "title": "Prospective Partners",
+    "client":"Maurice",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 9",
+        "Mira Survey 18%",
+        "Level 34"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "26,000 Credits",
+        "360 Experience",
+        "200 Affinity",
+        "Luxaar's Ship (Holofigure"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "mission": "two-peas-in-a-pod",
+    "title": "Two Peas in a Pod",
+    "client":"Vandham",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 11",
+        "Level 47"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "39,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "SRM-USP140SA Hexad-Partican",
+        "FILE-USP0140SA",
+        "FILE-USP0160SA",
+        "FILE-USP0180SA"
+    ]
+}

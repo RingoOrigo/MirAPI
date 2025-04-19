@@ -1,0 +1,23 @@
+{
+    "mission": "spy-games",
+    "title": "Spy Games",
+    "client":"Maurice",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 7",
+        "Level 28"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Nagi"
+    ],
+    "rewards": [
+        "13,000 Credits",
+        "220 Experience",
+        "200 Affinity",
+        "Veteran's Uniform"
+    ]
+}

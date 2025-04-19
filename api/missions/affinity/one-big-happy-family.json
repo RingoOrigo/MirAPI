@@ -1,0 +1,20 @@
+{
+    "mission": "one-big-happy-family",
+    "title": "One Big Happy Family",
+    "client":"Al",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 13 (Act 2)",
+        "Al Affinity 1♥",
+        "Level 55"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "56,000 Credits",
+        "540 Experience",
+        "200 Affinity",
+        "White Whale 2 (Holofigure)",
+        "Hercules Blow (Art)"
+    ]
+}

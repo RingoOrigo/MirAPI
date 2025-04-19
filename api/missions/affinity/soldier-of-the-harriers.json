@@ -1,0 +1,24 @@
+{
+    "mission": "soldier-of-the-harriers",
+    "title": "Soldier of the Harriers",
+    "client":"Doug",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 7",
+        "Doug Affinity 3♥",
+        "Level 30"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Doug"
+    ],
+    "rewards": [
+        "100,000 Credits",
+        "280 Experience",
+        "200 Affinity",
+        "Phenomenon (Art)"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "mission": "thinking-makes-it-so",
+    "title": "Thinking Makes It So",
+    "client":"Liesel",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 9",
+        "A Girl's Wings",
+        "Liesel Affinity 2♥",
+        "Level 36"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "26,000 Credits",
+        "360 Experience",
+        "200 Affinity",
+        "FILE-SK-HRAESVELG",
+        "Mind Shift (Art)"
+    ]
+}

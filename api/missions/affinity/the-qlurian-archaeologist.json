@@ -1,0 +1,20 @@
+{
+    "mission": "the-qlurian-archaeologist",
+    "title": "The Qlurian Archaeologist",
+    "client":"Neilnail",
+    "location": "BLADE Concourse",
+    "prerequisites": [
+        "Chapter 5",
+        "Level 51"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "10,000 Credits",
+        "170 Experience",
+        "200 Affinity",
+        "Unknown Scholastics (Holofigure)",
+        "Conduction Rise (Art)",
+        "Neilnail (Playable)"
+    ]
+}

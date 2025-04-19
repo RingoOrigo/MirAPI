@@ -1,0 +1,19 @@
+{
+    "mission": "the-mad-monk",
+    "title": "The Mad Monk",
+    "client":"Bozé",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 5",
+        "Backup Request (Basic Mission) Accepted",
+        "Level 20"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "13,000 Credits",
+        "220 Experience",
+        "200 Affinity",
+        "Bozé (Playable)"
+    ]
+}

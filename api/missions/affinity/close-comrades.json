@@ -1,0 +1,24 @@
+{
+    "mission": "close-comrades",
+    "title": "Close Comrades",
+    "client":"Doug",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 4",
+        "Level 20"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Doug",
+        "Lao"
+    ],
+    "rewards": [
+        "11,000 Credits",
+        "190 Experience",
+        "200 Affinity",
+        "Starlight Duster (Art)"
+    ]
+}

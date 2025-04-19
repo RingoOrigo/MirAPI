@@ -1,0 +1,28 @@
+{
+    "mission": "to-serve-nopon",
+    "title": "To Serve Nopon",
+    "client":"Lin",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 12",
+        "BFFs",
+        "Sparking a Smile",
+        "Trade Agreement (Normal Mission) Inactive",
+        "Level 52"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "52,000 Credits",
+        "510 Experience",
+        "200 Affinity",
+        "Supreme Swimsuit Top",
+        "Supreme Swimmer's Band R",
+        "Supreme Swimmer's Band L",
+        "FILE-USP0380GG",
+        "Drum Roll (Art)"
+    ]
+}

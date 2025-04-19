@@ -1,0 +1,23 @@
+{
+    "mission": "nagi's-time",
+    "title": "Nagi's Time",
+    "client":"Vandham",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 8",
+        "Level 32"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "22,000 Credits",
+        "280 Experience",
+        "200 Affinity",
+        "White Whale (Holofigure)",
+        "Nagi (Playable)",
+        "True Stream Edge (Art)"
+    ]
+}

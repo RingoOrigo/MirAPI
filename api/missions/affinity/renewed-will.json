@@ -1,0 +1,22 @@
+{
+    "mission": "renewed-will",
+    "title": "Renewed Will",
+    "client":"Vandham",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Level 15"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [
+        "Irina"
+    ],
+    "rewards": [
+        "9,000 Credits",
+        "160 Experience",
+        "200 Affinity",
+        "Smooth Recovery (Art)"
+    ]
+}

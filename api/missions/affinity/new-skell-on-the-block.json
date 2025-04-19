@@ -1,0 +1,23 @@
+{
+    "mission": "new-skell-on-the-block",
+    "title": "New Skell on the Block",
+    "client":"Vandham",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 6",
+        "The Skell License",
+        "Level 24"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "13,000 Credits",
+        "220 Experience",
+        "200 Affinity",
+        "Grenada Pilot (Male) (Holofigure)",
+        "Grenada Pilot (Female) (Holofigure)",
+        "Liesel's Helmet",
+        "Effect Charge (Art)",
+        "Liesel (Playable)"
+    ]
+}

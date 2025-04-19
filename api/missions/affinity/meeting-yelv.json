@@ -1,0 +1,17 @@
+{
+    "mission": "meeting-yelv",
+    "title": "Meeting Yelv",
+    "client":"Yelv",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Level 14"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "9,000 Credits",
+        "160 Experience",
+        "200 Affinity",
+        "Yelv (Playable)"
+    ]
+}

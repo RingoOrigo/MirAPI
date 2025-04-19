@@ -1,0 +1,22 @@
+{
+    "mission": "rapid-misfire",
+    "title": "Rapid Misfire",
+    "client":"Alexa",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 11",
+        "Alexa Affinity 4♥",
+        "Level 50"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "42,000 Credits",
+        "470 Experience",
+        "200 Affinity",
+        "FILE-SK-EXCAVATOR50",
+        "FILE-SK-EXCAVATOR60",
+        "Ramjet Rifle II",
+        "Maximum Voltage (Art)"
+    ]
+}

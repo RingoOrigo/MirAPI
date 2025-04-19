@@ -1,0 +1,25 @@
+{
+    "mission": "serial-thriller",
+    "title": "Serial Thriller",
+    "client":"Murderess",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Chapter 12",
+        "A False Hope",
+        "Murderess Affinity 4♥",
+        "Level 53"
+    ],
+    "required-members": [
+        "Murderess"
+    ],
+    "restricted-members": [
+        "Irina"
+    ],
+    "rewards": [
+        "43,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "FILE-USP0780SA",
+        "Gravity Lunge (Art)"
+    ]
+}

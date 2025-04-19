@@ -1,0 +1,20 @@
+{
+    "mission": "the-custodian's-duty",
+    "title": "The Custodian's Duty",
+    "client":"Neilnail",
+    "location": "BLADE Concourse",
+    "prerequisites": [
+        "Chapter 11",
+        "New in New LA",
+        "Neilnail Affinity 2♥",
+        "Level 48"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "39,500 Credits",
+        "480 Experience",
+        "200 Affinity",
+        "Heroic Tale (Art)"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "mission": "manhunt",
+    "title": "Manhunt",
+    "client":"Vandham",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 8",
+        "Level 33"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "22,000 Credits",
+        "300 Experience",
+        "200 Affinity"
+    ]
+}

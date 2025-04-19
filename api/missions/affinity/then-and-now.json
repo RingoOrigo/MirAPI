@@ -1,0 +1,24 @@
+{
+    "mission": "then-and-now",
+    "title": "Then and Now",
+    "client":"Elma",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 12",
+        "We Were Soldiers",
+        "Elma Affinity 4♥",
+        "Level 58"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "52,000 Credits",
+        "510 Experience",
+        "200 Affinity",
+        "Unknown (Male) (Holofigure)",
+        "Unknown (Male) (Holofigure)"
+    ]
+}

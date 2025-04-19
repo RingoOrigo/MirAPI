@@ -1,0 +1,22 @@
+{
+    "mission": "the-ties-that-bind",
+    "title": "The Ties That Bind",
+    "client":"Tatsu",
+    "location": "Commercial District",
+    "prerequisites": [
+        "Chapter 4",
+        "Level 15"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "12,000 Credits",
+        "200 Experience",
+        "200 Affinity",
+        "Memento (Holofigure)",
+        "Dodonga Caravan (Whale's Nostril)"
+    ]
+}

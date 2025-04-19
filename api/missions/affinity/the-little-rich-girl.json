@@ -1,0 +1,21 @@
+{
+    "mission": "the-little-rich-girl",
+    "title": "The Little Rich Girl",
+    "client":"Murderess",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 10",
+        "Murderess Affinity 2♥",
+        "Level 39"
+    ],
+    "required-members": [
+        "Murderess"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "32,000 Credits",
+        "420 Experience",
+        "200 Affinity",
+        "Seventh Edge (Art)"
+    ]
+}

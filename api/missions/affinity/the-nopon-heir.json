@@ -1,0 +1,27 @@
+{
+    "mission": "the-nopon-heir",
+    "title": "The Nopon Heir",
+    "client":"Tora",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 12",
+        "The Flight Module",
+        "BFFs",
+        "L Affinity 4♥",
+        "Level 49"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin",
+        "L"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "40,000 Credits",
+        "500 Experience",
+        "200 Affinity",
+        "FILE-USP0280SA",
+        "Overdrive.APPEND-HP XV",
+        "HP Rebound XV"
+    ]
+}

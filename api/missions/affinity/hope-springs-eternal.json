@@ -1,0 +1,18 @@
+{
+    "mission": "hope-springs-eternal",
+    "title": "Hope Springs Eternal",
+    "client": "Hope",
+    "location": "Residential District",
+    "prerequisites": [
+        "Marry Me (Basic Mission) Accepted",
+        "Level 21"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "10,000 Credits",
+        "170 Experience",
+        "200 Affinity",
+        "Hope (Playable)"
+    ]
+}

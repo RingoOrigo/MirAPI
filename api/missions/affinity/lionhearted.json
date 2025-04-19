@@ -1,0 +1,25 @@
+{
+    "mission": "lionhearted",
+    "title": "Lionhearted",
+    "client":"Ni Zain",
+    "location": "O'rrh Sim Capital Remains",
+    "prerequisites": [
+        "Chapter 12",
+        "Ga Jiarg Affinity 2♥",
+        "Level 51"
+    ],
+    "required-members": [],
+    "restricted-members": [
+        "Ga Jiarg"
+    ],
+    "rewards": [
+        "54,000 Credits",
+        "520 Experience",
+        "200 Affinity",
+        "Caladar (Holofigure)",
+        "Six Stars Warlord (Male) (Holofigure)",
+        "Six Stars Warlord (Female) (Holofigure)",
+        "FILE-USP1180SA",
+        "Bahamut Wave (Art)"
+    ]
+}

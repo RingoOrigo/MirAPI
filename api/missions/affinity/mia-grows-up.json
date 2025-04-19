@@ -1,0 +1,24 @@
+{
+    "mission": "mia-grows-up",
+    "title": "Mia Grows Up",
+    "client":"Tora",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 12",
+        "Sparking a Smile",
+        "Mia Affinity 4♥",
+        "Level 53"
+    ],
+    "required-members": [
+        "Mia"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "52,000 Credits",
+        "510 Experience",
+        "200 Affinity",
+        "Parma Series (Holofigure)",
+        "Beam Bomber (Art)",
+        "Clarity Ray (Art)"
+    ]
+}

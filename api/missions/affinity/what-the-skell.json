@@ -1,0 +1,22 @@
+{
+    "mission": "what-the-skell",
+    "title": "What the Skell?!",
+    "client":"Alexa",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 9",
+        "Weaponized",
+        "Alexa Affinity 2♥",
+        "Level 36"
+    ],
+    "required-members": [
+        "Alexa"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "26,000 Credits",
+        "360 Experience",
+        "200 Affinity",
+        "Overclock (Art)"
+    ]
+}

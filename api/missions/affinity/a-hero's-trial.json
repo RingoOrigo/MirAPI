@@ -1,0 +1,21 @@
+{
+    "mission": "a-hero's-trial",
+    "title": "A Hero's Trial",
+    "client":"Al",
+    "location": "BLADE Barracks",
+    "prerequisites": [
+        "Chapter 13 (Act 1)",
+        "Level 51"
+    ],
+    "required-members": [],
+    "restricted-members": [
+        "Al"
+    ],
+    "rewards": [
+        "54,000 Credits",
+        "520 Experience",
+        "200 Affinity",
+        "Sakuraba Flight Jacket",
+        "Howling Soul (Art)"
+    ]
+}

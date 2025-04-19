@@ -1,0 +1,20 @@
+{
+    "mission": "weaponized",
+    "title": "Weaponized",
+    "client":"Alexa",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Guinea Pigs Wanted! (Basic Mission) Accepted",
+        "Outfitters Test Hangar not in use",
+        "Level 17"
+    ],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": [
+        "11,000 Credits",
+        "190 Experience",
+        "200 Affinity",
+        "Ramjet Rifle",
+        "Alexa (Playable)"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "mission": "new-in-new-la",
+    "title": "New in New LA",
+    "client":"Rock",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 9",
+        "Manhunt",
+        "Level 44"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "26,000 Credits",
+        "360 Experience",
+        "200 Affinity",
+        "Celica (Playable)",
+        "Black Bane (Art)"
+    ]
+}

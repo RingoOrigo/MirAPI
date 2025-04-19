@@ -1,0 +1,22 @@
+{
+    "mission": "my-dream",
+    "title": "My Dream",
+    "client":"Murderess",
+    "location": "Administrative District",
+    "prerequisites": [
+        "Chapter 5",
+        "Level 22"
+    ],
+    "required-members": [
+        "Irina"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "0 Credits",
+        "230 Experience",
+        "200 Affinity",
+        "Spherican EM Motor",
+        "Resonating Madonater",
+        "Murderess (Playable)"
+    ]
+}

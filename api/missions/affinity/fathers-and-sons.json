@@ -1,0 +1,25 @@
+{
+    "mission": "fathers-and-sons",
+    "title": "Fathers and Sons",
+    "client":"Vandham",
+    "location": "BNLADE Barracks",
+    "prerequisites": [
+        "Chapter 11",
+        "The Flight Module",
+        "Irina Affinity 4♥",
+        "Level 50"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin",
+        "Irina"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "41,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "FILE-USP1080GG",
+        "Quick Cannon (Art)"
+    ]
+}

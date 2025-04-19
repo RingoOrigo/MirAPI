@@ -1,0 +1,26 @@
+{
+    "mission": "fiting-in",
+    "title": "Fitting In",
+    "client":"Celica",
+    "location": "Industrial District",
+    "prerequisites": [
+        "Chapter 11",
+        "BFFs",
+        "The Flight Module",
+        "Celica Affinity 3♥",
+        "Level 46"
+    ],
+    "required-members": [
+        "Elma",
+        "Lin",
+        "Celica"
+    ],
+    "restricted-members": [],
+    "rewards": [
+        "41,000 Credits",
+        "460 Experience",
+        "200 Affinity",
+        "FILE-USP0580GG",
+        "Zero Zero (Art)"
+    ]
+}

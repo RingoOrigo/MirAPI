@@ -52,10 +52,7 @@ app.listen(port, () => {
     console.log(`Server listening on port ${port}.`);
 });
 
-// Define basic API endpoint with constant return.
-app.get('/', (_, result) => {
-    return result.sendFile(path.join(__dirname, 'docs/index.html'));
-});
+app.use(express.static('docs'));
 
 /**
  * API endpoint to get FN sites.
@@ -165,4 +162,8 @@ app.get('/api/missions', async (request, result) => {
             return result.status(500).json({error: 'Error reading mission data.'});
         }
     }
+});
+
+app.use((_, result) => {
+    return result.status(404).sendFile(path.join(__dirname, 'docs/404.html'));
 });

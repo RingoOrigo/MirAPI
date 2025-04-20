@@ -1,0 +1,99 @@
+:root {
+    --black-primary: #1f1f23e1;
+    --black-primary-alpha: #000000;
+    --white-primary: #ffffff;
+    --white-primary-alpha: #d3dee313;
+    --highlight: #4ee7e9;
+    --lowlight: #1d464c;
+    --gray: #5e5e5e;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+/* A text dialogue box reminiscent of the ones from Xenoblade Chronicles X */
+.text-dialogue {
+    /* Basic colour info */
+    background-color: var(--black-primary);
+    color: var(--white-primary);
+
+    /* Size and alignment info */
+    height: 25vh;
+    width: 40vw;
+
+    /* Flex info for contained text */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    /* Match source material with small border and background blur */
+    border: var(--gray) 2px solid;
+    backdrop-filter: blur(10px);
+}
+
+.text-dialogue a {
+    text-decoration: none;
+    color: var(--white-primary);
+    border: transparent 4px solid;
+}
+
+.text-dialogue h1 {
+    font-size: 2.5vb;
+    margin-top: 4vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.separator {
+    width: 90%;
+    border-top: var(--white-primary-alpha) 1px solid;
+}
+
+.text-dialogue h2 {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    border: transparent 4px solid;
+}
+
+.text-dialogue h2:hover {
+    border: #4ee7e9 4px solid;
+    animation: selection 1s forwards;
+}
+
+/* A short fade-in animation for the highlight box */
+@keyframes selection {
+    0% {
+        border: transparent 4px solid;
+        background-color: var(--black-primary);
+    }
+
+    100% {
+        border: #4ee7e9 4px solid;
+        background-color: var(--lowlight);
+    }
+}
+
+html {
+    /* Default the text to the closest match I could find */
+    font-family: "Roboto", sans-serif;
+    word-spacing: 2px;
+
+    user-select: none;
+
+    /* Set the background elements. */
+    overflow: hidden;
+    background-image: url(../img/bg-sylvalum.webp);
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

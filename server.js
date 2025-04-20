@@ -9,6 +9,7 @@
 const express = require('express');
 const fs = require('node:fs');
 const cors = require('cors');
+const path = require('path');
 
 const app = express();
 app.use(cors());
@@ -52,8 +53,8 @@ app.listen(port, () => {
 });
 
 // Define basic API endpoint with constant return.
-app.get('/', (request, result) => {
-    result.send('Hello, world!');
+app.get('/', (_, result) => {
+    return result.sendFile(path.join(__dirname, 'docs/index.html'));
 });
 
 /**

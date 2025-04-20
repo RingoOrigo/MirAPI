@@ -8,8 +8,10 @@
 // Import the required modules
 const express = require('express');
 const fs = require('node:fs');
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
 
 async function concatAllJSONFiles (directory) {
     try {

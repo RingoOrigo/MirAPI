@@ -97,3 +97,10 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media screen and (orientation: portrait) {
+    .text-dialogue {
+        height: 30vh;
+        width: 90vw;
+    }
+}

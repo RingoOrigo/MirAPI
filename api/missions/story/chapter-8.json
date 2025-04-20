@@ -15,10 +15,16 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "45,000 Credits",
-        "1,000 Experience",
-        "140 Affinity",
-        "Mining Probe G8"
-    ]
+    "rewards": {
+        "credits": 45000,
+        "experience": 1000,
+        "affinity": 140,
+        "items": [
+            "Mining Probe G8"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

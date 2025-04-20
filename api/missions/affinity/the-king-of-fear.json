@@ -15,10 +15,16 @@
         "H.B."
     ],
     "restricted-members": [],
-    "rewards": [
-        "18,000 Credits",
-        "290 Experience",
-        "200 Affinity",
-        "Atomic Hit (Art)"
-    ]
+    "rewards": {
+        "credits": 18000,
+        "experience": 290,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Atomic Hit"
+        ],
+        "other": []
+    }
 }

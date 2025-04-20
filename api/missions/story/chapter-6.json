@@ -14,11 +14,18 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "35,000 Credits",
-        "650 Experience",
-        "100 Affinity",
-        "Storage Probe",
-        "The Skell License (Mission)"
-    ]
+    "rewards": {
+        "credits": 35000,
+        "experience": 650,
+        "affinity": 100,
+        "items": [
+            "Storage Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "The Skell License (Mission)"
+        ]
+    }
 }

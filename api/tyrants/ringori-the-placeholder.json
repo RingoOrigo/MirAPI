@@ -1,0 +1,18 @@
+{
+    "name": "Ringori, the Divine Placeholder",
+    "category": "Yet to be implemented",
+    "species": "questionable",
+    "location": "github (MirAPI)",
+    "time": "All",
+    "weather": "All",
+    "level": "99",
+    "drops": [
+        "Ringori's Ring (Hand)",
+        "Material A (Body)",
+        "JSON File (Body)"
+    ],
+    "additional-notes": [
+        "This is a placeholder file",
+        "this section will likely only be used for mobs like Lugalbanda that only appear after a certain point in the story."
+    ]
+}

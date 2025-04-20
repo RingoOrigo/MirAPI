@@ -16,11 +16,18 @@
         "Celica"
     ],
     "restricted-members": [],
-    "rewards": [
-        "41,000 Credits",
-        "460 Experience",
-        "200 Affinity",
-        "FILE-USP0580GG",
-        "Zero Zero (Art)"
-    ]
+    "rewards": {
+        "credits": 41000,
+        "experience": 460,
+        "affinity": 200,
+        "items": [
+            "FILE-USP0580GG"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Zero Zero"
+        ],
+        "other": []
+    }
 }

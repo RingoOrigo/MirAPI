@@ -8,9 +8,14 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "115,000 Credits",
-        "3,500 Experience",
-        "Al (Playable)"
-    ]
+    "rewards": {
+        "credits": 115000,
+        "experience": 3500,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "Al",
+        "arts": [],
+        "other": []
+    }
 }

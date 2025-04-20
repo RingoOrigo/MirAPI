@@ -10,11 +10,16 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "11,000 Credits",
-        "190 Experience",
-        "200 Affinity",
-        "Ramjet Rifle",
-        "Alexa (Playable)"
-    ]
+    "rewards": {
+        "credits": 11000,
+        "experience": 190,
+        "affinity": 200,
+        "items": [
+            "Ramjet Rifle"
+        ],
+        "holofigures": [],
+        "new-recruits": "Alexa",
+        "arts": [],
+        "other": []
+    }
 }

@@ -8,11 +8,18 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "10,000 Credits",
-        "50 Experience",
-        "Mining Probe G1",
-        "Mining Probe G1",
-        "Research Probe G1"
-    ]
+    "rewards": {
+        "credits": 10000,
+        "experience": 50,
+        "affinity": 0,
+        "items": [
+            "Mining Probe G1",
+            "Mining Probe G1",
+            "Research Probe G1"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

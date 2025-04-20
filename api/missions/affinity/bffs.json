@@ -12,11 +12,17 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "15,000 Credits",
-        "240 Experience",
-        "200 Affinity",
-        "Nopon Bazaar (Commercial District)",
-        "Nopon Commerce Guild (AM Terminal)"
-    ]
+    "rewards": {
+        "credits": 15000,
+        "experience": 240,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "Nopon Bazaar (Commercial District)",
+            "Nopon Commerce Guild (AM Terminal)"
+        ]
+    }
 }

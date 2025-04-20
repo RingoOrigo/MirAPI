@@ -10,10 +10,14 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "13,000 Credits",
-        "220 Experience",
-        "200 Affinity",
-        "Bozé (Playable)"
-    ]
+    "rewards": {
+        "credits": 13000,
+        "experience": 220,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "Bozé",
+        "arts": [],
+        "other": []
+    }
 }

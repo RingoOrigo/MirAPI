@@ -15,10 +15,16 @@
     "restricted-members": [
         "Nagi"
     ],
-    "rewards": [
-        "55,000 Credits",
-        "1,500 Experience",
-        "180 Affinity",
-        "Fuel Recovery Probe"
-    ]
+    "rewards": {
+        "credits": 55000,
+        "experience": 1500,
+        "affinity": 180,
+        "items": [
+            "Fuel Recovery Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

@@ -11,10 +11,16 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "39,500 Credits",
-        "480 Experience",
-        "200 Affinity",
-        "Heroic Tale (Art)"
-    ]
+    "rewards": {
+        "credits": 39500,
+        "experience": 480,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Heroic Tale"
+        ],
+        "other": []
+    }
 }

@@ -11,10 +11,16 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "15,000 Credits",
-        "250 Experience",
-        "200 Affinity",
-        "Mindstorm (Art)"
-    ]
+    "rewards": {
+        "credits": 15000,
+        "experience": 250,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Mindstorm"
+        ],
+        "other": []
+    }
 }

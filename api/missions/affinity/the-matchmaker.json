@@ -15,10 +15,16 @@
     "restricted-members": [
         "Lao"
     ],
-    "rewards": [
-        "13,000 Credits",
-        "220 Experience",
-        "200 Affinity",
-        "Afterburner (Art)"
-    ]
+    "rewards": {
+        "credits": 13000,
+        "experience": 220,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Afterburner"
+        ],
+        "other": []
+    }
 }

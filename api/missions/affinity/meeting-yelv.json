@@ -8,10 +8,14 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "9,000 Credits",
-        "160 Experience",
-        "200 Affinity",
-        "Yelv (Playable)"
-    ]
+    "rewards": {
+        "credits": 9000,
+        "experience": 160,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "Yelv",
+        "arts": [],
+        "other": []
+    }
 }

@@ -12,14 +12,22 @@
     "restricted-members": [
         "Ga Jiarg"
     ],
-    "rewards": [
-        "54,000 Credits",
-        "520 Experience",
-        "200 Affinity",
-        "Caladar (Holofigure)",
-        "Six Stars Warlord (Male) (Holofigure)",
-        "Six Stars Warlord (Female) (Holofigure)",
-        "FILE-USP1180SA",
-        "Bahamut Wave (Art)"
-    ]
+    "rewards": {
+        "credits": 54000,
+        "experience": 520,
+        "affinity": 200,
+        "items": [
+            "FILE-USP1180SA"
+        ],
+        "holofigures": [
+            "Caladar",
+            "Six Stars Warlord (Male)",
+            "Six Stars Warlord (Female)"
+        ],
+        "new-recruits": "",
+        "arts": [
+            "Bahamut Wave"
+        ],
+        "other": []
+    }
 }

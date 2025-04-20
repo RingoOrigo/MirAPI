@@ -10,14 +10,21 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "28,000 Credits",
-        "340 Experience",
-        "200 Affinity",
-        "FILE-SK_POLICE",
-        "Hidden Cantor Hoard",
-        "Galaxial Jewel",
-        "Multi-Wire",
-        "Flamehand (Art)"
-    ]
+    "rewards": {
+        "credits": 28000,
+        "experience": 340,
+        "affinity": 200,
+        "items": [
+            "FILE-SK-POLICE",
+            "Hidden Cantor Hoard",
+            "Galaxial Jewel",
+            "Multi-Wire"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Flamehand"
+        ],
+        "other": []
+    }
 }

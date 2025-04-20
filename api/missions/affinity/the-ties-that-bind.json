@@ -12,11 +12,18 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "12,000 Credits",
-        "200 Experience",
-        "200 Affinity",
-        "Memento (Holofigure)",
-        "Dodonga Caravan (Whale's Nostril)"
-    ]
+    "rewards": {
+        "credits": 12000,
+        "experience": 200,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [
+            "Memento"
+        ],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "Dodonga Caravan (Whale's Nostril)"
+        ]
+    }
 }

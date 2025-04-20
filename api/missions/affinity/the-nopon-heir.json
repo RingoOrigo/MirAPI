@@ -16,12 +16,18 @@
         "L"
     ],
     "restricted-members": [],
-    "rewards": [
-        "40,000 Credits",
-        "500 Experience",
-        "200 Affinity",
-        "FILE-USP0280SA",
-        "Overdrive.APPEND-HP XV",
-        "HP Rebound XV"
-    ]
+    "rewards": {
+        "credits": 40000,
+        "experience": 500,
+        "affinity": 200,
+        "items": [
+            "FILE-USP0280SA",
+            "Overdrive.APPEND-HP XV",
+            "HP Rebound XV"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

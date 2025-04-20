@@ -11,11 +11,18 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "26,000 Credits",
-        "360 Experience",
-        "200 Affinity",
-        "FILE-SK-HRAESVELG",
-        "Mind Shift (Art)"
-    ]
+    "rewards": {
+        "credits": 26000,
+        "experience": 360,
+        "affinity": 200,
+        "items": [
+            "FILE-SK-HRAESVELG"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Mind Shift"
+        ],
+        "other": []
+    }
 }

@@ -14,11 +14,17 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "52,000 Credits",
-        "510 Experience",
-        "200 Affinity",
-        "Unknown (Male) (Holofigure)",
-        "Unknown (Male) (Holofigure)"
-    ]
+    "rewards": {
+        "credits": 52000,
+        "experience": 510,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [
+            "Unknown (Male)",
+            "Unknown (Female)"
+        ],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

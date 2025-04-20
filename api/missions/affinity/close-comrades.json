@@ -15,10 +15,16 @@
         "Doug",
         "Lao"
     ],
-    "rewards": [
-        "11,000 Credits",
-        "190 Experience",
-        "200 Affinity",
-        "Starlight Duster (Art)"
-    ]
+    "rewards": {
+        "credits": 11000,
+        "experience": 190,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Starlight Duster"
+        ],
+        "other": []
+    }
 }

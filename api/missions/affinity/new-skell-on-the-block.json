@@ -10,14 +10,21 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "13,000 Credits",
-        "220 Experience",
-        "200 Affinity",
-        "Grenada Pilot (Male) (Holofigure)",
-        "Grenada Pilot (Female) (Holofigure)",
-        "Liesel's Helmet",
-        "Effect Charge (Art)",
-        "Liesel (Playable)"
-    ]
+    "rewards": {
+        "credits": 13000,
+        "experience": 220,
+        "affinity": 200,
+        "items": [
+            "Liesel's Helmet"
+        ],
+        "holofigures": [
+            "Grenada Pilot (Male)",
+            "Grenada Pilot (Female)"
+        ],
+        "new-recruits": "Liesel",
+        "arts": [
+            "Effect Charge"
+        ],
+        "other": []
+    }
 }

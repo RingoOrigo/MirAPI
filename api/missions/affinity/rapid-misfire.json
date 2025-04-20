@@ -10,13 +10,20 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "42,000 Credits",
-        "470 Experience",
-        "200 Affinity",
-        "FILE-SK-EXCAVATOR50",
-        "FILE-SK-EXCAVATOR60",
-        "Ramjet Rifle II",
-        "Maximum Voltage (Art)"
-    ]
+    "rewards": {
+        "credits": 42000,
+        "experience": 470,
+        "affinity": 200,
+        "items": [
+            "FILE-SK-EXCAVATOR50",
+            "FILE-SK-EXCAVATOR60",
+            "Ramjet Rifle II"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Maximum Voltage (Art)"
+        ],
+        "other": []
+    }
 }

@@ -14,19 +14,26 @@
     "restricted-members": [
         "Nagi"
     ],
-    "rewards": [
-        "100,000 Credits",
-        "3000 Experience",
-        "240 Affinity",
-        "Ranged Attack Probe",
-        "New Skell Frames (AM Terminal)",
-        "Support Missions (Network Terminal)",
-        "Dadaan, the Strongest Prone (Tyrant)",
-        "Gradivus, the Headless Emperor (Tyrant)",
-        "Leva'el, the Terminus (Tyrant)",
-        "Lugalbanda, the Wanderer-King (Tyrant)",
-        "Nahum, the Red Hare (Tyrant)",
-        "Nardacyon, the Shadowless (Tyrant)",
-        "New Elma Appearance (Setting)"
-    ]
+    "rewards": {
+        "credits": 100000,
+        "experience": 3000,
+        "affinity": 240,
+        "items": [
+            "Ranged Attack Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "New Skell Frames (AM Terminal)",
+            "Support Missions (Network Terminal)",
+            "Dadaan, the Strongest Prone (Tyrant)",
+            "Gradivus, the Headless Emperor (Tyrant)",
+            "Leva'el, the Terminus (Tyrant)",
+            "Lugalbanda, the Wanderer-King (Tyrant)",
+            "Nahum, the Red Hare (Tyrant)",
+            "Nardacyon, the Shadowless (Tyrant)",
+            "New Elma Appearance (Setting)"
+        ]
+    }
 }

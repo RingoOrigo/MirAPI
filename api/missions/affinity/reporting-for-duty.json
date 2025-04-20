@@ -14,10 +14,16 @@
         "Nagi"
     ],
     "restricted-members": [],
-    "rewards": [
-        "32,000 Credits",
-        "400 Experience",
-        "200 Affinity",
-        "Blossom Dance (Art)"
-    ]
+    "rewards": {
+        "credits": 32000,
+        "experience": 400,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Blossom Dance"
+        ],
+        "other": []
+    }
 }

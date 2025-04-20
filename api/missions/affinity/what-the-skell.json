@@ -13,10 +13,16 @@
         "Alexa"
     ],
     "restricted-members": [],
-    "rewards": [
-        "26,000 Credits",
-        "360 Experience",
-        "200 Affinity",
-        "Overclock (Art)"
-    ]
+    "rewards": {
+        "credits": 26000,
+        "experience": 360,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Overclock (Art)"
+        ],
+        "other": []
+    }
 }

@@ -15,10 +15,16 @@
     "restricted-members": [
         "Doug"
     ],
-    "rewards": [
-        "100,000 Credits",
-        "280 Experience",
-        "200 Affinity",
-        "Phenomenon (Art)"
-    ]
+    "rewards": {
+        "credits": 100000,
+        "experience": 280,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Phenomenon"
+        ],
+        "other": []
+    }
 }

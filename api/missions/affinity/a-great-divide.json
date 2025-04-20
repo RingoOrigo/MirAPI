@@ -15,10 +15,16 @@
     "restricted-members": [
         "Frye"
     ],
-    "rewards": [
-        "17,000 Credits",
-        "280 Experience",
-        "200 Affinity",
-        "Sky High (Art)"
-    ]
+    "rewards": {
+        "credits": 17000,
+        "experience": 280,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Sky High"
+        ],
+        "other": []
+    }
 }

@@ -17,10 +17,16 @@
         "Irina",
         "Gwin"
     ],
-    "rewards": [
-        "30,000 Credits",
-        "410 Experience",
-        "200 Affinity",
-        "Grenade Blitz (Art)"
-    ]
+    "rewards": {
+        "credits": 30000,
+        "experience": 410,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Grenade Blitz"
+        ],
+        "other": []
+    }
 }

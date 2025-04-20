@@ -12,10 +12,16 @@
         "Murderess"
     ],
     "restricted-members": [],
-    "rewards": [
-        "32,000 Credits",
-        "420 Experience",
-        "200 Affinity",
-        "Seventh Edge (Art)"
-    ]
+    "rewards": {
+        "credits": 32000,
+        "experience": 420,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Seventh Edge"
+        ],
+        "other": []
+    }
 }

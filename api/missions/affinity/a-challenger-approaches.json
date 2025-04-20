@@ -1,7 +1,7 @@
 {
     "mission": "a-challenger-approaches",
     "title": "A Challenger Approaches",
-    "client":"Maurice",
+    "client": "Maurice",
     "location": "BLADE Barracks",
     "prerequisites": [
         "Chapter 10",
@@ -12,14 +12,21 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "32,000 Credits",
-        "410 Experience",
-        "200 Affinity",
-        "Warhorse's Uniform",
-        "Ga Jiarg (Holofigure)",
-        "Ga Buidhe (Holofigure)",
-        "Ga Jiarge (Playable)",
-        "Sky Sunder (Art)"
-    ]
+    "rewards": {
+        "credits": 32000,
+        "experience": 410,
+        "affinity": 200,
+        "items": [
+            "Warhorse's Uniform"
+        ],
+        "holofigures": [
+            "Ga Jiarg",
+            "Ga Buidhe"
+        ],
+        "new-recruits": "Ga Jiarg",
+        "arts": [
+            "Sky Sunder"
+        ],
+        "other": []
+    }
 }

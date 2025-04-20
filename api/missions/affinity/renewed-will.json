@@ -13,10 +13,16 @@
     "restricted-members": [
         "Irina"
     ],
-    "rewards": [
-        "9,000 Credits",
-        "160 Experience",
-        "200 Affinity",
-        "Smooth Recovery (Art)"
-    ]
+    "rewards": {
+        "credits": 9000,
+        "experience": 160,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Smooth Recovery"
+        ],
+        "other": []
+    }
 }

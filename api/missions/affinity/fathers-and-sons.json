@@ -15,11 +15,18 @@
         "Irina"
     ],
     "restricted-members": [],
-    "rewards": [
-        "41,000 Credits",
-        "460 Experience",
-        "200 Affinity",
-        "FILE-USP1080GG",
-        "Quick Cannon (Art)"
-    ]
+    "rewards": {
+        "credits": 41000,
+        "experience": 460,
+        "affinity": 200,
+        "items": [
+            "FILE-USP1080GG"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Quick Cannon"
+        ],
+        "other": []
+    }
 }

@@ -13,14 +13,21 @@
         "Bozé"
     ],
     "restricted-members": [],
-    "rewards": [
-        "24,000 Credits",
-        "370 Experience",
-        "200 Affinity",
-        "FILE-SK-DOZER",
-        "Advances Thruster",
-        "New Cylinder",
-        "Standard Sensor Part",
-        "Slayonet (Art)"
-    ]
+    "rewards": {
+        "credits": 24000,
+        "experience": 370,
+        "affinity": 200,
+        "items": [
+            "FILE-SK-DOZER",
+            "Advances Thruster",
+            "New Cylinder",
+            "Standard Sensor Part"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Slayonet"
+        ],
+        "other": []
+    }
 }

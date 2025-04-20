@@ -11,10 +11,16 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "20,000 Credits",
-        "100 Experience",
-        "40 Affinity",
-        "Storage Probe"
-    ]
+    "rewards": {
+        "credits": 20000,
+        "experience": 100,
+        "affinity": 40,
+        "items": [
+            "Storage Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

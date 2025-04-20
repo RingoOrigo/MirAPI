@@ -15,12 +15,19 @@
         "Frye",
         "Phog"
     ],
-    "rewards": [
-        "24,000 Credits",
-        "310 Experience",
-        "200 Affinity",
-        "Bullet Twister (Art)",
-        "Crisis Zone (Art)",
-        "Phog and Frye playable together"
-    ]
+    "rewards": {
+        "credits": 24000,
+        "experience": 310,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Bullet Twister",
+            "Crisis Zone"
+        ],
+        "other": [
+            "Phog and Frye can be recruited together."
+        ]
+    }
 }

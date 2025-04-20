@@ -12,13 +12,20 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "39,000 Credits",
-        "460 Experience",
-        "200 Affinity",
-        "SRM-USP140SA Hexad-Partican",
-        "FILE-USP0140SA",
-        "FILE-USP0160SA",
-        "FILE-USP0180SA"
-    ]
+    "rewards": {
+        "credits": 39000,
+        "experience": 460,
+        "affinity": 200,
+        "items": [
+            "SRM-USP140SA Hexad-Partican",
+            "FILE-USP0140SA",
+            "FILE-USP0160SA",
+            "FILE-USP0180SA"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+        ]
+    }
 }

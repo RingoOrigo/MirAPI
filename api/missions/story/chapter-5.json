@@ -16,10 +16,16 @@
         "Gwin",
         "Irina"
     ],
-    "rewards": [
-        "30,000 Credits",
-        "400 Experience",
-        "80 Affinity",
-        "Duplicator Probe"
-    ]
+    "rewards": {
+        "credits": 30000,
+        "experience": 400,
+        "affinity": 80,
+        "items": [
+            "Duplicator Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

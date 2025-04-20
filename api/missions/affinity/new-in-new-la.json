@@ -13,11 +13,16 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "26,000 Credits",
-        "360 Experience",
-        "200 Affinity",
-        "Celica (Playable)",
-        "Black Bane (Art)"
-    ]
+    "rewards": {
+        "credits": 26000,
+        "experience": 360,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "Celica",
+        "arts": [
+            "Black Bane"
+        ],
+        "other": []
+    }
 }

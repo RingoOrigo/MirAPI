@@ -12,11 +12,18 @@
         "Hope"
     ],
     "restricted-members": [],
-    "rewards": [
-        "30,000 Credits",
-        "410 Experience",
-        "200 Affinity",
-        "FILE-USP1280ME",
-        "Tacit Censure (Art)"
-    ]
+    "rewards": {
+        "credits": 30000,
+        "experience": 410,
+        "affinity": 200,
+        "items": [
+            "FILE-USP1280ME"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Tacit Censure"
+        ],
+        "other": []
+    }
 }

@@ -12,12 +12,18 @@
         "Lin"
     ],
     "restricted-members": [],
-    "rewards": [
-        "9,000 Credits (Route A)",
-        "160 Experience (Rute A)",
-        "10,000 Credits (Route B)",
-        "170 Experience (Rute B)",
-        "200 Affinity",
-        "Fire Carnival (Art)"
-    ]
+    "rewards": {
+        "credits": 9000,
+        "experience": 160,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Fire Carnival"
+        ],
+        "other": [
+            "B Route awards 1000 more credits and 10 more experience."
+        ]
+    }
 }

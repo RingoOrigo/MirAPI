@@ -13,12 +13,19 @@
         "Mia"
     ],
     "restricted-members": [],
-    "rewards": [
-        "52,000 Credits",
-        "510 Experience",
-        "200 Affinity",
-        "Parma Series (Holofigure)",
-        "Beam Bomber (Art)",
-        "Clarity Ray (Art)"
-    ]
+    "rewards": {
+        "credits": 52000,
+        "experience": 510,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [
+            "Parma Series"
+        ],
+        "new-recruits": "",
+        "arts": [
+            "Beam Bomber",
+            "Clarity Ray"
+        ],
+        "other": []
+    }
 }

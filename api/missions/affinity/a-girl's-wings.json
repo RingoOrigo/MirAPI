@@ -11,10 +11,16 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "24,000 Credits",
-        "330 Experience",
-        "200 Affinity",
-        "Flight Module (All Skells)"
-    ]
+    "rewards": {
+        "credits": 12000,
+        "experience": 330,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "Flight Module (All Skells)"
+        ]
+    }
 }

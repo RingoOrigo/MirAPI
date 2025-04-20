@@ -17,14 +17,21 @@
     "restricted-members": [
         "Nagi"
     ],
-    "rewards": [
-        "41,000 Credits",
-        "460 Experience",
-        "200 Affinity",
-        "FILE-R1306FC",
-        "Golden Stabilizer",
-        "Rainbow Metal",
-        "Standard Coil",
-        "Master Gunner (Art)"
-    ]
+    "rewards": {
+        "credits": 41000,
+        "experience": 460,
+        "affinity": 200,
+        "items": [
+            "FILE-R1306FC",
+            "Golden Stabilizer",
+            "Rainbow Metal",
+            "Standard Coil"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Master Gunner"
+        ],
+        "other": []
+    }
 }

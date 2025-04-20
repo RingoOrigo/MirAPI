@@ -17,11 +17,18 @@
         "Nagi",
         "Lao"
     ],
-    "rewards": [
-        "50,000 Credits",
-        "1,200 Experience",
-        "160 Affinity",
-        "Storage Probe",
-        "The Flight Module (Mission)"
-    ]
+    "rewards": {
+        "credits": 50000,
+        "experience": 1200,
+        "affinity": 160,
+        "items": [
+            "Storage Probe"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": [
+            "The Flight Module (Mission)"
+        ]
+    }
 }

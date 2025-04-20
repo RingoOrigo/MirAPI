@@ -11,11 +11,18 @@
     "restricted-members": [
         "Al"
     ],
-    "rewards": [
-        "54,000 Credits",
-        "520 Experience",
-        "200 Affinity",
-        "Sakuraba Flight Jacket",
-        "Howling Soul (Art)"
-    ]
+    "rewards": {
+        "credits": 54000,
+        "experience": 520,
+        "affinity": 200,
+        "items": [
+            "Sakuraba Flight Jacket"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Howling Soul"
+        ],
+        "other": []
+    }
 }

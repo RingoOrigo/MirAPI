@@ -16,10 +16,16 @@
         "Gwin",
         "Irina"
     ],
-    "rewards": [
-        "40,000 Credits",
-        "800 Experience",
-        "120 Affinity",
-        "Research Probe G4"
-    ]
+    "rewards": {
+        "credits": 40000,
+        "experience": 800,
+        "affinity": 120,
+        "items": [
+            "Research Probe G4"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

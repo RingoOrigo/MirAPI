@@ -14,10 +14,16 @@
     "restricted-members": [
         "Nagi"
     ],
-    "rewards": [
-        "13,000 Credits",
-        "220 Experience",
-        "200 Affinity",
-        "Veteran's Uniform"
-    ]
+    "rewards": {
+        "credits": 13000,
+        "experience": 220,
+        "affinity": 200,
+        "items": [
+            "Veteran's Uniform"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
 }

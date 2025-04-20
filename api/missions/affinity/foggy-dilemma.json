@@ -11,10 +11,14 @@
     "restricted-members": [
         "Frye"
     ],
-    "rewards": [
-        "11,000 Credits",
-        "190 Experience",
-        "200 Affinity",
-        "Phog (Playable)"
-    ]
+    "rewards": {
+        "credits": 11000,
+        "experience": 190,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "Phog",
+        "arts": [],
+        "other": []
+    }
 }

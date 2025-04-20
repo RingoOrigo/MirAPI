@@ -15,11 +15,18 @@
     "restricted-members": [
         "Irina"
     ],
-    "rewards": [
-        "43,000 Credits",
-        "460 Experience",
-        "200 Affinity",
-        "FILE-USP0780SA",
-        "Gravity Lunge (Art)"
-    ]
+    "rewards": {
+        "credits": 43000,
+        "experience": 460,
+        "affinity": 200,
+        "items": [
+            "FILE-USP0780SA"
+        ],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [
+            "Gravity Lunge"
+        ],
+        "other": []
+    }
 }

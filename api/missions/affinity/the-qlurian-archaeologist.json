@@ -9,12 +9,18 @@
     ],
     "required-members": [],
     "restricted-members": [],
-    "rewards": [
-        "10,000 Credits",
-        "170 Experience",
-        "200 Affinity",
-        "Unknown Scholastics (Holofigure)",
-        "Conduction Rise (Art)",
-        "Neilnail (Playable)"
-    ]
+    "rewards": {
+        "credits": 10000,
+        "experience": 170,
+        "affinity": 200,
+        "items": [],
+        "holofigures": [
+            "Unknown Scholastics"
+        ],
+        "new-recruits": "Neilnail",
+        "arts": [
+            "Conduction Rise"
+        ],
+        "other": []
+    }
 }

@@ -1,0 +1,31 @@
+{
+    "class": "Winged Viper",
+    "ranged-weapon": "Dual Guns",
+    "melee-weapon": "Dual Swords",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Deep Fang",
+        "Mortal Enemy",
+        "Trigger Happy",
+        "Lifeline",
+        "Mindscape",
+        "Hellhound"
+    ],
+    "art-unlocks": [
+        "Side Slash",
+        "Thirsty Edge",
+        "Violent Streak",
+        "Blood Sacrifice",
+        "Killing Machine",
+        "Primer"
+    ],
+    "stat-modifiers" : {
+        "hp": "-5%",
+        "ranged-attack": "+10%",
+        "ranged-accuracy": "+15%",
+        "melee-attack": "-5%",
+        "melee-accuracy": "+15%",
+        "evasion": "+35%",
+        "potential": "+0%"
+    }
+}

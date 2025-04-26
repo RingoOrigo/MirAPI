@@ -52,8 +52,7 @@ app.listen(port, () => {
     console.log(`Server listening on port ${port}.`);
 });
 
-app.use(express.static('docs'));
-
+app.use('/', express.static(path.join(__dirname, 'docs')));
 /**
  * API endpoint to get FN sites.
  *  - Usage: GET http://localhost:3000/api/sites?id=<id>
@@ -237,6 +236,43 @@ app.get('/api/tyrants', async (request, result) => {
         }
 
         return result.status(404).json({error: `Tyrant '${name}' not found.`, code: 404});
+    }
+});
+
+/**
+ * API endpoint to get classes.
+ * @param {string} name - The name of the class to get. Not required. (kebab-case)
+ * @returns - A JSON object with the requested class data, if name was specified
+ *          - A JSON array of all available class data, if name was not specified
+ *          - A 404 error if the name was not found
+ *          - A 500 error if there was an error reading files.
+ */
+app.get('/api/classes', async (request, result) => {
+    const directory = 'api/classes';
+    const {name} = request.query;
+
+    if (!name) {
+        try {
+            const classes = await concatAllJSONFiles(directory);
+            return result.status(200).json(classes);
+        } catch (e) {
+            return result.status(500).json({error: "Server-side error reading files.", code: 500});
+        }
+    } else {
+        try {
+            const files = await fs.promises.readdir(directory, { withFileTypes: true });
+            for (const file of files) {
+                if (file.name === `${name}.json`) {
+                    // Return the JSON data of the specified file.
+                    const data = await fs.promises.readFile(`${directory}/${file.name}`, 'utf8');
+                    return result.status(200).json(JSON.parse(data));
+                }
+            }
+        } catch (e) {
+            return result.status(500).json({error: "Server-side error reading files.", code: 500});
+        }
+
+        return result.status(404).json({error: `Class ${name} not found.`, code: 404});
     }
 });
 

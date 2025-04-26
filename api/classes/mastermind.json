@@ -1,0 +1,34 @@
+{
+    "class": "Mastermind",
+    "ranged-weapon": "Raygun",
+    "melee-weapon": "Knife",
+    "skill-slots": 4,
+    "skill-unlocks": [
+        "Ether Guard",
+        "Gravity Boost",
+        "Well-Weathered",
+        "Appendage Erosion",
+        "Resistant Flesh",
+        "Tactical Analyst",
+        "King's Boon",
+        "Secondary Accelerator"
+    ],
+    "art-unlocks": [
+        "Dispel",
+        "Gravity Blast",
+        "Gravity Cloak",
+        "Servant Sacrifice",
+        "Energy Source",
+        "Black Butterfly",
+        "Pathogen Blast"
+    ],
+    "stat-modifiers" : {
+        "hp": "-10%",
+        "ranged-attack": "+30%",
+        "ranged-accuracy": "+10%",
+        "melee-attack": "-10%",
+        "melee-accuracy": "+0%",
+        "evasion": "+10%",
+        "potential": "+60%"
+    }
+}

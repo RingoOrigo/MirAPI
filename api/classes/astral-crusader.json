@@ -1,0 +1,32 @@
+{
+    "class": "Astral Crusader",
+    "ranged-weapon": "Sniper Rifle",
+    "melee-weapon": "Javelin",
+    "skill-slots": 4,
+    "skill-unlocks": [
+        "Long Shot",
+        "Unstoppable",
+        "Quick Reload",
+        "Conductive Strike",
+        "Electric Flesh",
+        "TP Overdrive"
+    ],
+    "art-unlocks": [
+        "Overwhelm",
+        "Hawkeye",
+        "Speed Demon",
+        "Sidewinder",
+        "Hair Trigger",
+        "Ghost Sniper",
+        "Trident Buster"
+    ],
+    "stat-modifiers" : {
+        "hp": "+10%",
+        "ranged-attack": "+60%",
+        "ranged-accuracy": "+5%",
+        "melee-attack": "+10%",
+        "melee-accuracy": "+10%",
+        "evasion": "+10%",
+        "potential": "+0%"
+    }
+}

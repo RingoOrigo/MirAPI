@@ -1,0 +1,32 @@
+{
+    "class": "Psycorruptor",
+    "ranged-weapon": "Raygun",
+    "melee-weapon": "Knife",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Beauty Sleep",
+        "Brain Wall",
+        "Gentle Approach",
+        "King's Decree",
+        "Extra Armor",
+        "Feather Touch",
+        "Unpleasant Dream",
+        "Core Crusher"
+    ],
+    "art-unlocks": [
+        "Screamer",
+        "Subterfuge",
+        "Absorber Skin",
+        "Ether Blast",
+        "Brainjack"
+    ],
+    "stat-modifiers" : {
+        "hp": "-20%",
+        "ranged-attack": "+40%",
+        "ranged-accuracy": "+10%",
+        "melee-attack": "-15%",
+        "melee-accuracy": "-5%",
+        "evasion": "+5%",
+        "potential": "+40%"
+    }
+}

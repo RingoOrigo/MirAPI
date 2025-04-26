@@ -1,0 +1,34 @@
+{
+    "class": "Samurai Gunner",
+    "ranged-weapon": "Assault Rifle",
+    "melee-weapon": "Longsword",
+    "skill-slots": 2,
+    "skill-unlocks": [
+        "CQC Master",
+        "Auto Melee Boost",
+        "Iron Knuckle",
+        "Healing Aura",
+        "Weapon Guard",
+        "Blazing Auto",
+        "Theroid Slayer",
+        "Yamato Spirit"
+    ],
+    "art-unlocks": [
+        "Offensive Stance",
+        "Burst Grenade",
+        "Decoy Round",
+        "Flash Grenade",
+        "Medic Free",
+        "Assault Breaker",
+        "Burning Stash"
+    ],
+    "stat-modifiers" : {
+        "hp": "+20%",
+        "ranged-attack": "+5%",
+        "ranged-accuracy": "+10%",
+        "melee-attack": "+15%",
+        "melee-accuracy": "+0%",
+        "evasion": "+15%",
+        "potential": "-25%"
+    }
+}

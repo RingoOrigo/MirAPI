@@ -1,0 +1,33 @@
+{
+    "class": "Commando",
+    "ranged-weapon": "Dual Guns",
+    "melee-weapon": "Dual Swords",
+    "skill-slots": 2,
+    "skill-unlocks": [
+        "Agile Gunslinger",
+        "Steady Hand",
+        "Boosted Bullets",
+        "Background Noise",
+        "Combo Gunner",
+        "Third Eye",
+        "Master Edge",
+        "Aura Burst"
+    ],
+    "art-unlocks": [
+        "Back Slash",
+        "Early Bird",
+        "Stream Edge",
+        "Sliding Slinger",
+        "Upper Hand",
+        "Shadowrunner"
+    ],
+    "stat-modifiers" : {
+        "hp": "-15%",
+        "ranged-attack": "+0%",
+        "ranged-accuracy": "+10%",
+        "melee-attack": "-10%",
+        "melee-accuracy": "+10%",
+        "evasion": "+30%",
+        "potential": "-10%"
+    }
+}

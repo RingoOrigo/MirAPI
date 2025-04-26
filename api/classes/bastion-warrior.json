@@ -1,0 +1,31 @@
+{
+    "class": "Bastian Warrior",
+    "ranged-weapon": "Gatling Gun",
+    "melee-weapon": "Shield",
+    "skill-slots": 4,
+    "skill-unlocks": [
+        "Machine Gunner",
+        "Heatseeker",
+        "Double Spike",
+        "Double Reflect"
+    ],
+    "art-unlocks": [
+        "Hellfire",
+        "Shield Wall",
+        "Enhanced Stand",
+        "Reality Rift",
+        "Thermal Payload",
+        "Bombardier",
+        "Cool Off",
+        "Supershield"
+    ],
+    "stat-modifiers" : {
+        "hp": "+50%",
+        "ranged-attack": "+10%",
+        "ranged-accuracy": "+5%",
+        "melee-attack": "+60%",
+        "melee-accuracy": "-5%",
+        "evasion": "+5%",
+        "potential": "-30%"
+    }
+}

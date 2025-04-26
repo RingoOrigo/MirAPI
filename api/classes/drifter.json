@@ -1,0 +1,24 @@
+{
+    "class": "Drifter",
+    "ranged-weapon": "Assault Rifle",
+    "melee-weapon": "Knight",
+    "skill-slots": 5,
+    "skill-unlocks": [],
+    "art-unlocks": [
+        "Flame Grenade",
+        "Assault Hammer",
+        "Chrome Armor",
+        "Slit Edge",
+        "Infuriate",
+        "Recuperate"
+    ],
+    "stat-modifiers" : {
+        "hp": "0%",
+        "ranged-attack": "+0%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "+0%",
+        "melee-accuracy": "+0%",
+        "evasion": "+0%",
+        "potential": "+0%"
+    }
+}

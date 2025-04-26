@@ -1,0 +1,31 @@
+{
+    "class": "Striker",
+    "ranged-weapon": "Assault Rifle",
+    "melee-weapon": "Longsword",
+    "skill-slots": 1,
+    "skill-unlocks": [
+        "Steel Flesh",
+        "Unwavering Courage",
+        "Flame Trigger",
+        "Mighty Muscle",
+        "Combat Presence",
+        "Dismantler"
+    ],
+    "art-unlocks": [
+        "Rising Blade",
+        "Defensive Stance",
+        "Power Dive",
+        "Tornado Blade",
+        "Furious Blast",
+        "Magnum Edge"
+    ],
+    "stat-modifiers" : {
+        "hp": "+10%",
+        "ranged-attack": "-10%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "+20%",
+        "melee-accuracy": "-5%",
+        "evasion": "+15%",
+        "potential": "-35%"
+    }
+}

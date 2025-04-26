@@ -1,0 +1,28 @@
+{
+    "class": "Duelist",
+    "ranged-weapon": "Assault Rifle",
+    "melee-weapon": "Longsword",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Conflagrant Edge",
+        "Aggro Boost",
+        "Fortified Flesh",
+        "Grand Procession"
+    ],
+    "art-unlocks": [
+        "Incendiary Edge",
+        "Gunforce",
+        "Takedown Shot",
+        "Samurai Soul",
+        "Last Stand"
+    ],
+    "stat-modifiers" : {
+        "hp": "+25%",
+        "ranged-attack": "+20%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "+25%",
+        "melee-accuracy": "+5%",
+        "evasion": "+0%",
+        "potential": "-15%"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "class": "Blast Fencer",
+    "ranged-weapon": "Psycho Launchers",
+    "melee-weapon": "Photon Saber",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Ether Boost",
+        "Mechanoid Slayer",
+        "Knight's Soul",
+        "Aura Assault",
+        "Buff Extender",
+        "Supreme Sword"
+    ],
+    "art-unlocks": [
+        "Starfall Blade",
+        "Stellar Ray",
+        "Geolibrium",
+        "Lightning Cloak",
+        "Starfall Rondo",
+        "Jetstream",
+        "Astrolibrium",
+        "Shooting Star"
+    ],
+    "stat-modifiers" : {
+        "hp": "+10%",
+        "ranged-attack": "+10%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "+10%",
+        "melee-accuracy": "+0%",
+        "evasion": "+5%",
+        "potential": "+10%"
+    }
+}

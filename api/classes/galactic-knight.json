@@ -1,0 +1,31 @@
+{
+    "class": "Galactic Knight",
+    "ranged-weapon": "Psycho Launchers",
+    "melee-weapon": "Photon Saber",
+    "skill-slots": 4,
+    "skill-unlocks": [
+        "Gravity Guard",
+        "Fast Forward",
+        "Stellar Entry",
+        "Synchrony"
+    ],
+    "art-unlocks": [
+        "Astral Heal",
+        "Astral Protection",
+        "Starfall Blossom",
+        "Astral Purge",
+        "Novalibrium",
+        "Starlight Kick",
+        "Astral Horizon",
+        "Galactic Cataclysm"
+    ],
+    "stat-modifiers" : {
+        "hp": "+20%",
+        "ranged-attack": "+20%",
+        "ranged-accuracy": "+5%",
+        "melee-attack": "+20%",
+        "melee-accuracy": "+10%",
+        "evasion": "+10%",
+        "potential": "+20%"
+    }
+}

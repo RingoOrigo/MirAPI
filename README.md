@@ -9,7 +9,7 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | Symbol | Meaning |
 | ------ | ------- |
 |🟢| Complete|
-|🟡| Implemented, but contains placeholder data or an incomplete set.|
+|🟡| Endpoint exists, but contains placeholder data or an incomplete set.|
 |🔴| Unimplemented, but planned. |
 
 ### 🟢 Get Frontier Nav sites
@@ -30,6 +30,14 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | :-------- | :-------  | :------------------------- |
 | `skill-name`      | `String` | **Optional**. Specifies the name of a skill in kebab-case. If unspecified, returns list of all skills. |
 
+### 🟢 Get list of classes
+```http
+  GET /api/classes?name={class-name}
+```
+| Parameter | Type      | Description                |
+| :-------- | :-------  | :------------------------- |
+| `class-name`      | `String` | **Optional**. Specifies the name of a class in kebab-case. If unspecified, returns list of all classes. |
+
 ### 🟡 Get list of missions
 ```http
   GET /api/missions?type={Type}&name={mission-name}
@@ -44,8 +52,8 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 |--------------|--------|------------|
 |Story|🟢|Complete! |
 |Affinity|🟢|Complete!|
-|Side|🔴|Unimplemented|
-|Basic|🔴|Unimplemented|
+|Side|🟡|Unimplemented|
+|Basic|🟡|Unimplemented|
 
 ### 🔴 Get list of arts
 ```http
@@ -54,14 +62,6 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | Parameter | Type      | Description                |
 | :-------- | :-------  | :------------------------- |
 | `art-name`      | `String` | **Optional**. Specifies the name of an art in kebab-case. If unspecified, returns list of all arts. |
-
-### 🔴 Get list of classes
-```http
-  GET /api/classes?name={class-name}
-```
-| Parameter | Type      | Description                |
-| :-------- | :-------  | :------------------------- |
-| `class-name`      | `String` | **Optional**. Specifies the name of a class in kebab-case. If unspecified, returns list of all classes. |
 
 ### 🔴 Get list of skells
 ```http

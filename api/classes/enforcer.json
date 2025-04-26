@@ -1,0 +1,29 @@
+{
+    "class": "Enforcer",
+    "ranged-weapon": "Raygun",
+    "melee-weapon": "Knife",
+    "skill-slots": 2,
+    "skill-unlocks": [
+        "Inner Search",
+        "Beam Boost",
+        "Beam Guard",
+        "Buff Heal",
+        "Healing Touch",
+        "High Tension"
+    ],
+    "art-unlocks": [
+        "Beam Barrage",
+        "Repair",
+        "Myopic Screen",
+        "Full Specs"
+    ],
+    "stat-modifiers" : {
+        "hp": "-25%",
+        "ranged-attack": "+20%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "-20%",
+        "melee-accuracy": "-5%",
+        "evasion": "+0%",
+        "potential": "+25%"
+    }
+}

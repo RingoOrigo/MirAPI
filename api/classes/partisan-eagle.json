@@ -1,0 +1,32 @@
+{
+    "class": "Partisan Eagle",
+    "ranged-weapon": "Sniper Rifle",
+    "melee-weapon": "Javelin",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Killshot",
+        "Electric Guard",
+        "Electric Boost",
+        "Knock 'n' Shock",
+        "Fleet Feet",
+        "Piscinoid Slayer"
+    ],
+    "art-unlocks": [
+        "Arcing Horn",
+        "Shrapnel",
+        "Eagle Eye",
+        "Raijin",
+        "First Down",
+        "Spiral Horn",
+        "Intercept"
+    ],
+    "stat-modifiers" : {
+        "hp": "+0%",
+        "ranged-attack": "+30%",
+        "ranged-accuracy": "+10%",
+        "melee-attack": "+5%",
+        "melee-accuracy": "+5%",
+        "evasion": "+5%",
+        "potential": "-10%"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "class": "Full Metal Jaguar",
+    "ranged-weapon": "Dual Guns",
+    "melee-weapon": "Dual Swords",
+    "skill-slots": 4,
+    "skill-unlocks": [
+        "Night Vision",
+        "Zero Lapse",
+        "Red Zone",
+        "Crisis Catalyst",
+        "Blood Carnival",
+        "Phantom Counter"
+    ],
+    "art-unlocks": [
+        "Electric Surge",
+        "Ghostwalker",
+        "Executioner",
+        "Combat Limbo",
+        "Hundred Shells"
+    ],
+    "stat-modifiers" : {
+        "hp": "+0%",
+        "ranged-attack": "+15%",
+        "ranged-accuracy": "+20%",
+        "melee-attack": "+0%",
+        "melee-accuracy": "+20%",
+        "evasion": "+40%",
+        "potential": "+10%"
+    }
+}

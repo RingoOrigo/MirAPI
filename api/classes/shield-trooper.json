@@ -1,0 +1,34 @@
+{
+    "class": "Shield Trooper",
+    "ranged-weapon": "Gatling Gun",
+    "melee-weapon": "Shield",
+    "skill-slots": 3,
+    "skill-unlocks": [
+        "Thermal Shield",
+        "Topple Topper",
+        "Shield Screen",
+        "Rising Renewal",
+        "Long Topple",
+        "Trauma Tension",
+        "Dirty Fighter",
+        "Stand Strong"
+    ],
+    "art-unlocks": [
+        "Wild Down",
+        "Missile Volley",
+        "Flame Cloak",
+        "Iron Prison",
+        "Wild Smash",
+        "Trash Talk",
+        "Bullet Storm"
+    ],
+    "stat-modifiers" : {
+        "hp": "+40%",
+        "ranged-attack": "+0%",
+        "ranged-accuracy": "+0%",
+        "melee-attack": "+40%",
+        "melee-accuracy": "-5%",
+        "evasion": "+0%",
+        "potential": "-40%"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "skill": "Machine Gunner",
+    "unlock-class": "Bastion Warrior",
+    "unlock-class-level": 2,
+    "effect": "Boosts ranged damage by +20% (Level 1) - +100% (Level 5) when fighting two or more enemies."
+}

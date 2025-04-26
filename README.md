@@ -9,8 +9,9 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | Symbol | Meaning |
 | ------ | ------- |
 |🟢| Complete|
-|🟡| Implemented, but incomplete return data |
+|🟡| Implemented, but contains placeholder data or an incomplete set.|
 |🔴| Unimplemented, but planned. |
+
 ### 🟢 Get Frontier Nav sites
 
 ```http
@@ -21,6 +22,14 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | :-------- | :-------  | :------------------------- |
 | `ID`      | `Integer` | **Optional**. Specifies a specific site ID (i.e. 101). If unspecified, returns list of all Frontier Nav sites. |
 
+### 🟢 Get list of skills
+```http
+  GET /api/skills?name={skill-name}
+```
+| Parameter | Type      | Description                |
+| :-------- | :-------  | :------------------------- |
+| `skill-name`      | `String` | **Optional**. Specifies the name of a skill in kebab-case. If unspecified, returns list of all skills. |
+
 ### 🟡 Get list of missions
 ```http
   GET /api/missions?type={Type}&name={mission-name}
@@ -29,6 +38,14 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | :-------- | :-------  | :------------------------- |
 | `Type`      | `String` | **Optional**. Specifies the type of mission (Basic, Story, Normal, Affinity) to be returned. If unspecified, returns list of all missions. |
 | `mission-name` | `String` | **Optional**. Specifies the name of a mission in kebab-case. If unspecified, returns list of all missions. If specified with `Type`, searches missions of that type for the given name.
+
+#### Current Endpoint Status:
+| Mission Type | Status | Description|
+|--------------|--------|------------|
+|Story|🟢|Complete! |
+|Affinity|🟢|Complete!|
+|Side|🔴|Unimplemented|
+|Basic|🔴|Unimplemented|
 
 ### 🔴 Get list of arts
 ```http
@@ -45,14 +62,6 @@ Below are all endpoints of MirAPI. Before each endpoint is a symbol dictating it
 | Parameter | Type      | Description                |
 | :-------- | :-------  | :------------------------- |
 | `class-name`      | `String` | **Optional**. Specifies the name of a class in kebab-case. If unspecified, returns list of all classes. |
-
-### 🔴 Get list of skills
-```http
-  GET /api/skills?name={skill-name}
-```
-| Parameter | Type      | Description                |
-| :-------- | :-------  | :------------------------- |
-| `skill-name`      | `String` | **Optional**. Specifies the name of a skill in kebab-case. If unspecified, returns list of all skills. |
 
 ### 🔴 Get list of skells
 ```http

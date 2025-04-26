@@ -76,7 +76,7 @@ app.get('/api/sites', async (request, result) => {
             return result.status(200).json(sites);
         } catch (e) {
             // Return error code 500 if an error was encountered.
-            return result.status(500).json({error: 'Error reading all FN sites.'});
+            return result.status(500).json({error: 'Error reading all FN sites.', code: 500});
         }
     } else {
         const file = `${directory}/${id}.json`;
@@ -112,7 +112,7 @@ app.get('/api/missions', async (request, result) => {
             const missions = await concatAllJSONFiles(directory);
             return result.status(200).json(missions);
         } catch (e) {
-            return result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.', code: 500});
         }
 
     } else if (type && !name) {
@@ -122,7 +122,7 @@ app.get('/api/missions', async (request, result) => {
             const missions = await concatAllJSONFiles(missionDir);
             return result.status(200).json(missions);
         } catch (e) {
-            return result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.', code: 500});
         }
     } else if (!type && name) {
         try {
@@ -144,7 +144,7 @@ app.get('/api/missions', async (request, result) => {
                 return result.status(404).json({error: `Mission '${name}' not found.`, code: 404});
             }
         } catch(e) {
-            return result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.', code: 500});
         }
     } else {
         try {
@@ -159,11 +159,91 @@ app.get('/api/missions', async (request, result) => {
             }
             return result.status(404).json({error: `Could not find ${type} mission '${name}'`, code: 404});
         } catch (e) {
-            return result.status(500).json({error: 'Error reading mission data.'});
+            return result.status(500).json({error: 'Error reading mission data.', code: 500});
         }
     }
 });
 
+/**
+ * API endpoint to get combat skills.
+ * @param {string} name - The name of the skill to get. Not required. (kabab-case)
+ * @returns - A JSON object with the requested skill data, if name was specified.
+ *          - A JSON array with all available skill data, if name was not specified.
+ *          - A 404 error if the skill was not found.
+ *          - A 500 error if there was an error reading files.
+ */
+app.get('/api/skills', async (request, result) => {
+    const directory = 'api/skills';
+    const {name} = request.query;
+
+    if (!name) {
+        // No name specified, return all skills.
+        try {
+            const skills = await concatAllJSONFiles(directory);
+            return result.status(200).json(skills);
+        } catch (e) {
+            return result.status(500).json({error: 'Error reading skill data.', code: 500});
+        }
+    } else {
+        // Name specified, return the skill with the specified name.
+        try {
+            const files = await fs.promises.readdir(directory, { withFileTypes: true });
+            for (const file of files) {
+                if (file.name === `${name}.json`) {
+                    // Return the JSON data of the specified file.
+                    const data = await fs.promises.readFile(`${directory}/${file.name}`, 'utf8');
+                    return result.status(200).json(JSON.parse(data));
+                }
+            }
+        } catch (e) {
+            return result.status(500).json({error: 'Error reading skill data.', code: 500});
+        }
+    }
+});
+
+/**
+ * API endpoint to get tyrants.
+ * @param {string} name - The name of the tyrant to get. Not required. (kebab-case)
+ * @returns - A JSON object with the requested tyrant data, if name was specified.
+ *          - A JSON array with all available tyrant data, if name was not specified.
+ *          - A 404 error if the tyrant was not found.
+ *          - A 500 error if there was an error reading files.
+ */
+app.get('/api/tyrants', async (request, result) => {
+    const directory = 'api/tyrants';
+    const {name} = request.query;
+
+    if (!name) {
+        // No name specified, return all tyrants.
+        try {
+            const tyrants = await concatAllJSONFiles(directory);
+            return result.status(200).json(tyrants);
+        } catch (e) {
+            return result.status(500).json({error: 'Error reading tyrant data.', code: 500});
+        }
+    } else {
+        // Name specified, return the tyrant with the specified name.
+        try {
+            const files = await fs.promises.readdir(directory, { withFileTypes: true });
+            for (const file of files) {
+                if (file.name === `${name}.json`) {
+                    // Return the JSON data of the specified file.
+                    const data = await fs.promises.readFile(`${directory}/${file.name}`, 'utf8');
+                    return result.status(200).json(JSON.parse(data));
+                }
+            }
+        } catch (e) {
+            return result.status(500).json({error: 'Error reading tyrant data.', code: 500});
+        }
+
+        return result.status(404).json({error: `Tyrant '${name}' not found.`, code: 404});
+    }
+});
+
+/**
+ * API 404 endpoint.
+ * @returns - A 404 error page.
+ */
 app.use((_, result) => {
     return result.status(404).sendFile(path.join(__dirname, 'docs/404.html'));
 });

@@ -1,0 +1,6 @@
+{
+    "skill": "Shield Screen",
+    "unlock-class": "Shield Trooper",
+    "unlock-class-level": 4,
+    "effect": "Reduces damage by 10% (Level 1) - 30% (Level 5) when wielding a shield."
+}

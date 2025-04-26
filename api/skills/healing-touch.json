@@ -1,0 +1,6 @@
+{
+    "skill": "Healing Touch",
+    "unlock-class": "Enforcer",
+    "unlock-class-level": 9,
+    "effect": "Boosts the HP recovery of party members you revive by 30% (Level 1) - 50% (Level 5)."
+}

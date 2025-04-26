@@ -1,0 +1,6 @@
+{
+    "skill": "Crisis Catalyst",
+    "unlock-class": "Full Metal Jaguar",
+    "unlock-class-level": 7,
+    "effect": "Boosts critical change by 10 (Level 1) - 30 (Level 5) when HP is 50% or less. This effect is doubled when HP us 25% or less."
+}

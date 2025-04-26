@@ -1,0 +1,6 @@
+{
+    "skill": "Auto Melee Boost",
+    "unlock-class": "Samurai Gunner",
+    "unlock-class-level": 3,
+    "effect": "Boosts melee auto-attack damage by +30% (Level 1) - +50% (Level 5)."
+}

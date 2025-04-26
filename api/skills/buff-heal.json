@@ -1,0 +1,6 @@
+{
+    "skill": "Buff Heal",
+    "unlock-class": "Enforcer",
+    "unlock-class-level": 8,
+    "effect": "Recovers 100 (Level 1) - 500 (Level 5) HP when receiving a buff or aura from an art you used."
+}

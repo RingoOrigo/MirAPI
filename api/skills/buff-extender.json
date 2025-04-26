@@ -1,0 +1,6 @@
+{
+    "skill": "Buff Extender",
+    "unlock-class": "Blast Fencer",
+    "unlock-class-level": 9,
+    "effect": "Extends buf effects granted from support arts you use by 5 (Level 1) - 10 (Level 5) seconds."
+}

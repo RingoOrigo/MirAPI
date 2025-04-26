@@ -1,0 +1,6 @@
+{
+    "skill": "Weapon Guard",
+    "unlock-class": "Samurai Gunner",
+    "unlock-class-level": 6,
+    "effect": "Boosts physical resistance by 12 (Level 1) - 20 (Level 5) when wielding a melee weapon."
+}

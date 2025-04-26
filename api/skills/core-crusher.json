@@ -1,0 +1,6 @@
+{
+    "skill": "Core Crusher",
+    "unlock-class": "Psycorruptor",
+    "unlock-class-level": 10,
+    "effect": "Ether-attribute attacks cannot damage enemy appendages, but deal +50% (Level 1) - +150% (Level 5) primary damage when targeting them."
+}

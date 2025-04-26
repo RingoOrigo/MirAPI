@@ -1,0 +1,6 @@
+{
+    "skill": "Lifeline",
+    "unlock-class": "Winged Viper",
+    "unlock-class-level": 7,
+    "effect": "Recovers 10% (Level 1) - 30% (Level 5) of your HP when HP is at 50% or less and you use an aura."
+}

@@ -1,0 +1,19 @@
+{
+    "mission": "",
+    "title": "",
+    "client": "",
+    "location": "",
+    "prerequisites": [],
+    "required-members": [],
+    "restricted-members": [],
+    "rewards": {
+        "credits": 0,
+        "experience": 0,
+        "affinity": 0,
+        "items": [],
+        "holofigures": [],
+        "new-recruits": "",
+        "arts": [],
+        "other": []
+    }
+}

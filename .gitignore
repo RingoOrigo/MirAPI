@@ -2,3 +2,5 @@ node_modules/
 .env
 .eslintrc.json
 .vscode/
+# makeFiles.sh is a shell script to automate making empty .json files. 
+makeFiles.sh

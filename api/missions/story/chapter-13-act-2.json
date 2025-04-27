@@ -1,20 +1,21 @@
 {
-    "mission": "chapter-13-(act-1)",
-    "title": "Chapter 13 (Act 1): Cause and Effect",
+    "mission": "chapter-13-act-2",
+    "title": "Chapter 13 (Act 2): The Second Project Exodus",
     "client":"Vandham",
     "location":"BLADE Barracks",
     "prerequisites": [
-        "Chapter 12"
+        "Chapter 13 (Act 1)",
+        "A Challenger Approaches"
     ],
     "required-members": [],
     "restricted-members": [],
     "rewards": {
-        "credits": 115000,
-        "experience": 3500,
+        "credits": 130000,
+        "experience": 4000,
         "affinity": 200,
         "items": [],
         "holofigures": [],
-        "new-recruits": "Al",
+        "new-recruits": "",
         "arts": [],
         "other": []
     }

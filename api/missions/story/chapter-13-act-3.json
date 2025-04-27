@@ -1,17 +1,17 @@
 {
-    "mission": "chapter-13-(act-2)",
-    "title": "Chapter 13 (Act 2): The Second Project Exodus",
+    "mission": "chapter-13-act-3",
+    "title": "Chapter 13 (Act 3): Hero",
     "client":"Vandham",
     "location":"BLADE Barracks",
     "prerequisites": [
-        "Chapter 13 (Act 1)",
-        "A Challenger Approaches"
+        "Chapter 13 (Act 2)",
+        "A Hero's Trial"
     ],
     "required-members": [],
     "restricted-members": [],
     "rewards": {
-        "credits": 130000,
-        "experience": 4000,
+        "credits": 150000,
+        "experience": 0,
         "affinity": 200,
         "items": [],
         "holofigures": [],
